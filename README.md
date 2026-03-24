@@ -27,7 +27,7 @@ Linear, speakable, time-bound. Used for communication, navigation, and storytell
 Non-linear, non-spoken, simultaneous. Used to encode complete structures of consciousness that cannot be transmitted sequentially.<br>
 *Yemu reveals what the self is.*
 
-Both are extracted from a single structural object: the soul crucible.
+Both are extracted from a single structural object: the self crucible.
 
 ---
 
