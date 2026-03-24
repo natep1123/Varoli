@@ -19,12 +19,12 @@ Every word is readable from its center outward. The attractor state is visible b
 
 The system contains two layers:
 
-**Varoli** — the spoken tongue
-Linear, speakable, time-bound. Used for communication, navigation, and storytelling.
-*Varoli describes where the self is.*
+**Varoli** — the spoken tongue<br>
+Linear, speakable, time-bound. Used for communication, navigation, and storytelling.<br>
+*Varoli describes where the self is.*<br>
 
-**Yemu** — the unspoken tongue
-Non-linear, non-spoken, simultaneous. Used to encode complete structures of consciousness that cannot be transmitted sequentially.
+**Yemu** — the unspoken tongue<br>
+Non-linear, non-spoken, simultaneous. Used to encode complete structures of consciousness that cannot be transmitted sequentially.<br>
 *Yemu reveals what the self is.*
 
 Both are extracted from a single structural object: the soul crucible.
