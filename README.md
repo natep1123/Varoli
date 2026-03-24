@@ -49,7 +49,7 @@ Everything else builds from that foundation. Varoli can be used without understa
 ```plaintext
 varoli/          Spoken language. Entry point.
 yemu/            Unspoken structural system. For those who go further.
-soul-crucible/   The central structural object. Source of both languages.
+self-crucible/   The central structural object. Source of both languages.
 theory/          Formal rules, axioms, and constraint system.
 appendix/        Glossary, typographic system, supporting notes.
 ```
