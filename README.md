@@ -1,6 +1,6 @@
 # Varoli
 
-**A language built from first principles for the full range of human experience.**
+**A human language built from first principles for the full range of human experience.**
 
 ---
 
