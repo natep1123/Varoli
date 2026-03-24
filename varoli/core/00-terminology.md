@@ -12,8 +12,8 @@ Descriptive language may vary outside the structural layer, but must not contrad
 
 | Term | Definition | Notes |
 |------|-----------|-------|
-| **Substrate** | The elemental domain within which structure exists. | Used for vowels. Preferred over “layer” or “plane.” |
-| **Domain** | The functional space defined by a substrate. | Often interchangeable with substrate in context. |
+| **Substrate** | The ontological condition defined by a vowel, within which structure exists. | Primary descriptor of vowels. Preferred over "layer" or "plane." Use **substrate** when describing a vowel's elemental condition. Use **domain** when describing the functional space as a structural location. |
+| **Domain** | The functional space defined by a substrate. | Use when referencing a substrate as a structural location (e.g. "within the relational domain"). Not interchangeable with substrate in structural definitions. |
 | **Function** | The invariant structural role of a primitive. | Cannot change with context. |
 | **Primitive** | A fundamental unit of the system that cannot be reduced further. | Vowels, consonants, operator. |
 
@@ -34,9 +34,8 @@ Descriptive language may vary outside the structural layer, but must not contrad
 
 | Term | Definition | Notes |
 |------|-----------|-------|
-| **Substrate** | The ontological domain defined by a vowel. | Primary descriptor of vowels. |
-| **Register** | The experiential or identity layer associated with the substrate. | Descriptive, not structural. |
-| **Kinetic Tendency** | The natural directional behavior of the substrate. | Supports interpretation. |
+| **Register** | The experiential or identity layer associated with a substrate. | Descriptive, not structural. |
+| **Kinetic Tendency** | The natural directional behavior of a substrate as it relates to interpretation. | Descriptive, not structural. Distinct from consonant kinetics: this is a secondary property of vowel domains, not a force. Do not confuse with **Directional Bias**, which is a consonant property. |
 
 ---
 
@@ -44,8 +43,8 @@ Descriptive language may vary outside the structural layer, but must not contrad
 
 | Term | Definition | Notes |
 |------|-----------|-------|
-| **Kinetic** | The quality of motion a consonant represents. | Primary descriptor of consonants. |
-| **Directional Bias** | The natural vector of a consonant’s motion. | Inward, outward, static, threshold. |
+| **Kinetic** | The quality of motion a consonant represents. | Primary structural descriptor of consonants. |
+| **Directional Bias** | The natural vector of a consonant's motion. | Inward, outward, static, threshold. |
 | **Interaction** | The effect of a consonant acting within a substrate. | Must remain compositional. |
 
 ---
@@ -61,7 +60,7 @@ Descriptive language may vary outside the structural layer, but must not contrad
 
 ---
 
-## Attractor and Resolution Terms
+## Attractor Terms
 
 | Term | Definition | Notes |
 |------|-----------|-------|
@@ -79,20 +78,66 @@ Descriptive language may vary outside the structural layer, but must not contrad
 | **Interpretation** | The reading of meaning from structure. | Governed by interpretation rules. |
 | **Derivable** | A structure that can be fully reduced to primitives. | Required for validity. |
 | **Non-derivable** | A structure that cannot be reduced to primitives. | Invalid unless marked as exploratory. |
+| **Scale Realization** | The expression of a primitive's invariant function at a specific scale of context (internal, external, temporal, dimensional). | Function does not change across scales. Only the scope of application changes. Used in `05-phonemic-schema.md`. |
+
+---
+
+## Expression-Specific Usage
+
+Varoli and Yemu share the same primitives and structural terminology.  
+They differ in how structure is expressed and resolved.
+
+---
+
+### Varoli (Sequential Expression)
+
+- Expressions may be spoken and are time-bound
+- Meaning unfolds sequentially
+- Structures are articulated through ordered forms
+
+---
+
+### Yemu (Simultaneous Expression)
+
+- Expressions are not spoken
+- Structures are registered, recognized, or resolved
+- Meaning is perceived simultaneously
+- Reading occurs from attractor outward
+
+---
+
+## Usage Rule
+
+When describing Yemu:
+
+- Do not use:
+  - "speak"
+  - "say"
+  - "utter"
+
+- Prefer:
+  - **marked by**
+  - **declared by**
+  - **resolved as**
+  - **recognized through**
+  - **registered as**
+
+These are not stylistic preferences.  
+They reflect the structural difference between sequential articulation and simultaneous recognition.
 
 ---
 
 ## Prohibited or Non-Canonical Terms (Structural Layer)
 
-The following terms should not be used in formal definitions:
+The following terms must not be used in formal definitions:
 
-| Term | Reason |
-|------|--------|
-| “Layer of existence” | Too interpretive. Use **substrate**. |
-| “Plane” | Ambiguous. Use **domain** or **substrate**. |
-| “Transform” | Implies domain change. Consonants do not change substrates. |
-| “Ambiguity” | Misrepresents operator behavior. Use **unresolved state** or **superposition**. |
-| “Meaning shift” | Function does not shift. Use **scale realization** if needed. |
+| Term | Implied mechanic | Rule violated |
+|------|-----------------|---------------|
+| "Layer of existence" | Implies vowels are stacked spatial levels. | Substrate is an ontological condition, not a spatial position. Use **substrate**. |
+| "Plane" | Implies a bounded flat space that structures occupy. | Domains are conditions, not containers. Use **domain** or **substrate**. |
+| "Transform" | Implies a consonant can change the substrate it acts within. | Consonants operate within substrates; they do not alter them. Substrate is invariant. |
+| "Ambiguity" | Implies the operator introduces unclear or broken meaning. | The operator marks a structurally defined unresolved state. Use **superposition** or **unresolved state**. |
+| "Meaning shift" | Implies a primitive's function changes across contexts. | Function is invariant. Only scope of application changes. Use **scale realization**. |
 
 ---
 
