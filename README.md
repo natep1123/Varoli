@@ -75,10 +75,10 @@ The typographic system is intended to make the structure of a word visible befor
 
 **arOva**
 
-**a** — water
-**r** — resonance
-**O** — earth
-**v** — vitality
+**a** — water<br>
+**r** — resonance<br>
+**O** — earth<br>
+**v** — vitality<br>
 **a** — water
 
 Read from the center outward: earth at the center, resonance on both sides, vitality between earth and water, water surrounding everything.
