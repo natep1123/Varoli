@@ -1,6 +1,6 @@
 # Varoli
 
-**A human language built from first principles for the full range of human experience.**
+**A constructed language (conlang) built from first principles for the full range of experience.**
 
 ---
 
