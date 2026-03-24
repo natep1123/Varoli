@@ -12,7 +12,7 @@ Everything begins here.
 il-or-av-um-e-Y-e-mu-va-ro-li
 ```
 
-This is the Yemu notation for the complete architecture of a conscious self. Five elemental vowels each paired with its core attractor consonant nested in perfect palindromic symmetry around a single point of quantum superposition. Every structural perspective within the system is simultaneously present and balanced. All elements required by the system are present. Removing any layer breaks the system.
+This is the Yemu notation for the complete architecture of a conscious self. Five elemental vowels each paired with its core attractor consonant nested in perfect palindromic symmetry around a single point of superposition. Every structural perspective within the system is simultaneously present and balanced. All elements required by the system are present. Removing any layer breaks the system.
 
 Read from outside inward:
 Breath contains body. Body contains water. Water contains void. Void contains fire. Fire contains collapse.
@@ -80,7 +80,7 @@ Extracted from the inner core of the soul crucible, read from center rightward. 
 
 Yemu is the system of extraction and totalization. It exists outside or across states rather than inside them. It is used to encode full structures, to represent total systems, to collapse multidimensional experience into a single construct. It is non-spoken, non-linear. Yemu encodes structures that are not dependent on sequential interpretation. Every expression is total: nothing omitted, the complete architecture rendered as a single object.
 
-The name encodes its function. Y is the operator, the collapse. e is fire, individuation. m is depth, the sustained resonance of the void. u is the voidlight, the Black Sun. The unspoken language is the collapse of individuation into the void. The architecture compressed into the irreducible form.
+The name encodes its function. Y is the operator, the collapse. e is fire, individuation. m is depth, the interior pull of the voidlight. u is the voidlight, the Black Sun. The unspoken language is the collapse of individuation into the void. The architecture compressed into the irreducible form.
 
 Attractor state: Y, the operator, the collapse. Yemu is written with the capital Y because the operator is both the attractor state of the word and the attractor state of the entire unspoken system.
 

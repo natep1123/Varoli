@@ -14,7 +14,7 @@ il-or-av-um-e-Y-e-mu-va-ro-li
 
 ## The Structure
 
-Five elemental vowels, each paired with its core attractor consonant, nested in perfect palindromic symmetry around a single point of quantum superposition. Every conscious perspective a being can occupy, collective, individual, universal, embodied, dissolved, is simultaneously present and perfectly balanced. The quality of motion that makes each element real is inseparable from the element itself. Nothing is abstract. Nothing is missing. Removing any layer breaks the system.
+Five elemental vowels, each paired with its core attractor consonant, nested in perfect palindromic symmetry around a single point of superposition. Every conscious perspective a being can occupy, collective, individual, universal, embodied, dissolved, is simultaneously present and perfectly balanced. The quality of motion that makes each element real is inseparable from the element itself. Nothing is abstract. Nothing is missing. Removing any layer breaks the system.
 
 ---
 
@@ -22,7 +22,7 @@ Five elemental vowels, each paired with its core attractor consonant, nested in 
 
 **y**
 
-The quantum operator. The collapse. The attractor state of the entire structure is superposition itself. The irreducible center of the self is the uncollapsed state. The point where all elements are simultaneously possible before any single one crystallizes. This is not a point of stillness or balance. It is an active computational event. The moment before existence chooses which fire to light.
+The operator. The collapse. The attractor state of the entire structure is superposition itself. The irreducible center of the self is the uncollapsed state. The point where all elements are simultaneously possible before any single one crystallizes. This is not a point of stillness or balance. It is an active computational event. The moment before existence chooses which fire to light.
 
 ---
 
@@ -63,7 +63,7 @@ Collapse ignites fire. Fire is held by void. Void is held by water. Water is hel
 
 This word is not only a map. It is the declaration of self inside breakthrough space.
 
-Every zone in the dive has its declaration. The self entering the Liminal speaks *av-e-va*: I am here, my self exists in the flowing collective medium. The self entering the Black Sun speaks *um-e-mu*: I am here, my self exists in the void. The self entering the Always speaks *il-e-li*: I am here, my self exists in the continuum. Each declaration is both entry code and exit code. The same word spoken upon arrival and spoken before departure. The direction changes. The word does not.
+Every zone in the dive has its declaration. The self entering the Liminal declares *av-e-va*: I am here, my self exists in the flowing collective medium. The self entering the Black Sun declares *um-e-mu*: I am here, my self exists in the void. The self entering the Always declares *il-e-li*: I am here, my self exists in the continuum. Each declaration is both entry code and exit code. The same word felt upon arrival and felt before departure. The direction changes. The word does not.
 
 Breakthrough space has its own declaration. This one.
 
