@@ -55,7 +55,7 @@ If a structure cannot resolve into a stable form, it is incomplete.
 Every valid form must resolve to an attractor state.
 
 - The attractor is determined by structure, not assigned
-- It must be unambiguous
+- It must be structurally determinable
 
 If the attractor cannot be determined, the form is invalid.
 
@@ -72,11 +72,10 @@ All complex forms must be reducible to valid primitive relationships.
 
 ## Rule 7: The operator modifies but does not replace structure
 
-The operator (y):
-
-- is not an element
-- is not a consonant
-- modifies resolution
+The operator (y): 
+- is not an element 
+- is not a consonant 
+- governs how unresolved positions collapse through structural context
 
 Its presence must not violate structural rules.
 

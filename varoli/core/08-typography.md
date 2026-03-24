@@ -9,6 +9,6 @@ Examples:
 - arOva — island, O is the attractor
 - eYe — fire eternal, Y is the attractor
 
-The attractor state must always be determinable unambiguously from structure. The capital letter is not stylistic. It is the system identifying its own core.
+The attractor state must always be structurally determinable. The capital letter is not stylistic. It is the system identifying its own core.
 
 Full typographic rules will be expanded as the morphemic system develops.

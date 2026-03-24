@@ -40,7 +40,7 @@ Every valid form resolves to an attractor state.
 
 ---
 
-## Rule 5: Scale invariance
+## Rule 5: Scale realization does not alter function
 
 A valid form has one invariant function.
 
@@ -52,11 +52,9 @@ Scale includes:
 - Temporal (momentary vs persistent vs eternal)
 - Dimensional (surface vs depth vs breakthrough)
 
-A shift in scale changes realization, not function.
-
 ---
 
-## Rule 6: Scale does not introduce new meaning
+## Rule 6: Scale changes realization, not function
 
 Changing scale does not create new meanings.
 
@@ -90,4 +88,4 @@ A valid interpretation:
 - preserves function
 - respects structure
 - resolves from the attractor
-- remains consistent across scale
+- remains consistent across scale realizations
