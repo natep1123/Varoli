@@ -2,7 +2,7 @@
 
 Varoli is built on three primitive classes: vowels, consonants, and operators. This is not an arbitrary classification. Each class serves a fundamentally different role in the structure of meaning.
 
-Vowels define domains of existence. Consonants define forces acting within those domains. Operators act on the structure itself, governing how elements resolve without introducing new content.
+Vowels define the elemental substrates of the system. Consonants define forces acting within those domains. Operators act on the structure itself, governing how elements resolve without introducing new content.
 
 No class can be reduced to another. A vowel cannot behave like a consonant. A consonant cannot behave like an operator. An operator cannot become an element or a force. The separation is absolute.
 
@@ -59,7 +59,7 @@ g   w   th   c   p   b   ch   k   f   s   h   t   d   n   sh   j   z
 
 ### Operators
 
-Operators are neither elemental nor kinetic. They modify or determine how elements and relations resolve. They do not carry elemental weight or directional bias of their own.
+Operators modify or determine how relationships between primitives resolve. They do not carry elemental weight or directional bias of their own.
 
 ```
 y

@@ -18,7 +18,7 @@ The core specification is organized in dependency order. Each file builds on wha
 
 `04-operator-y.md` is a compressed reference for the operator. For full definition see `05-phonemic-schema.md`.
 
-`05-phonemic-schema.md` is the canonical source of truth for every character in the language. Full definitions for every character, including function, structure, and interpretive fields. All other files derive from this one.
+`05-phonemic-schema.md` is the canonical source of truth for every character in the language. Full definitions for every character, including function, structure, and descriptive fields (register, poetic field, scale realization). All other files derive from this one.
 
 `06-generation-rules.md` defines how valid forms are constructed. These rules govern structure.
 
