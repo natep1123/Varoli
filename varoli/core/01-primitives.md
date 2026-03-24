@@ -127,7 +127,7 @@ Varoli uses capitalization to mark the attractor state of a word: the structural
 
 - **aVa** — water eternal. V is the attractor. Palindromic balance visible at a glance.
 - **arOva** — island. O is the attractor. Earth at the center of water.
-- **varOli** — the spoken tongue. O is the attractor. The grounded thing.
+- **Varoli** — the spoken tongue. O is the attractor. The grounded thing.
 - **Yemu** — the unspoken tongue. Y is the attractor and the operator. The collapse at the center of depth and fire.
 - **eYe** — fire eternal. Y is the attractor. The operator at the center of fire.
 
