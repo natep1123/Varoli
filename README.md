@@ -6,7 +6,7 @@
 
 ## What This Is
 
-Varoli is an *a priori*, oligosynthetic language built from a small set of primitives: five elemental vowels, one operator, and twenty-two consonants. Meaning is not assigned. It is derived from structure.
+Varoli is an *a priori*, oligosynthetic language built from a small set of primitives: five elemental vowels, one operator, and twenty-one consonants. Meaning is not assigned. It is derived from structure.
 
 You do not memorize Varoli.
 You learn its physics and generate it.
