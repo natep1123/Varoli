@@ -1,6 +1,12 @@
 # 01 — Primitives
 
-The entire Varoli language system is derived from twenty-seven characters organized into three primitive categories. Every word, every morpheme, every valid expression in the language is calculable from these building blocks and the rules that govern them.
+Varoli is built on three primitive classes: vowels, consonants, and operators. This is not an arbitrary classification. Each class serves a fundamentally different role in the structure of meaning.
+
+Vowels define domains of existence. Consonants define forces acting within those domains. Operators act on the structure itself, governing how elements resolve without introducing new content.
+
+No class can be reduced to another. A vowel cannot behave like a consonant. A consonant cannot behave like an operator. An operator cannot become an element or a force. The separation is absolute.
+
+All valid forms in the language arise from the interaction of these three classes. If their roles are preserved, the system remains stable. If their roles are blurred, the system collapses.
 
 ---
 

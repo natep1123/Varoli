@@ -2,9 +2,11 @@
 
 ## Part I: Vowels 
 
-This section defines the elemental vowels and the operator. Each vowel occupies a distinct ontological layer. No two vowels share a domain. The Exclusion field enforces non-overlap.
+Vowels are the ontological foundation of the system. Each entry in this section defines a distinct domain of existence that cannot be reduced to or derived from any other.
 
-Function fields use structural language only. Metaphor belongs in Register.
+These definitions are structural, not interpretive. They describe what each vowel is, not how it may be experienced or described metaphorically. The poetic field exists to aid intuition, but the function remains primary and invariant.
+
+All higher structures in the language depend on the clarity and separation of these domains. If any two overlap, the system collapses. If they remain distinct, the system remains stable under expansion.
 
 ---
 
@@ -182,6 +184,12 @@ The weight of stone underfoot. The cold and density of something that holds its 
 
 ## Part II: Operator
 
+The operator is a structural mechanism, not a primitive of existence or motion. It acts on relationships between elements rather than participating in those relationships directly.
+
+Its role is to introduce and resolve indeterminacy in a controlled way. Where vowels and consonants define stable structure, the operator allows for transition, ambiguity, and collapse without loss of coherence.
+
+The operator must always be interpretable through context. It cannot introduce meaning that is not already structurally available. Its function is to delay resolution, not replace it.
+
 ---
 
 ### y — Superposition-Collapse Operator
@@ -219,11 +227,13 @@ In Varoli surface language, *y* appears rarely and intentionally, primarily in n
 
 ## Part III: Consonants
 
-Consonants are kinetic. Each consonant represents a specific quality of motion or relational force. They are the how of reality: the forces that make elements tangible and directional.
+Consonants define the full set of forces available to the system. Each entry describes a specific quality of motion that can act within or across the domains defined by the vowels.
 
-Function fields use structural language only. Metaphor belongs in Poetic Field.
+These forces are compositional. They do not introduce new entities, only new interactions. When combined, they must remain reducible to their component behaviors.
 
-The consonant set is divided into two subsets: the Attractor Set (four consonants with elemental affinity) and the General Set (seventeen applied forces). The operator *y* is documented in Part II.
+Each consonant has an invariant function and a directional bias. These two properties together determine how it behaves in any structure. Neither can be separated from the other.
+
+All valid constructions depend on these forces remaining distinct, directional, and non-overlapping.
 
 ---
 

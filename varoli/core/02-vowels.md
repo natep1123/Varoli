@@ -2,6 +2,16 @@
 
 Quick reference. For full definitions see `05-phonemic-schema.md`.
 
+Vowels define the elemental domains of the system. They are not symbols or categories, but ontological conditions: the layers of existence within which anything can appear, relate, differentiate, or stabilize.
+
+Each vowel represents a distinct and non-overlapping domain. These domains are invariant. They do not shift based on context or interpretation. All meaning in the language ultimately resolves through them.
+
+Every structure in the language is anchored in a vowel domain. The vowel does not describe the structure. It is the condition the structure exists within.
+
+Where consonants describe motion, vowels define where that motion occurs. Every structure in Varoli is anchored in a vowel, and the vowel determines the fundamental nature of that structure.
+
+Vowels are the substrate of meaning itself.
+
 ---
 
 ## Vowel Set
