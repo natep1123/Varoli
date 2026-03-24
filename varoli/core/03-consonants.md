@@ -4,9 +4,9 @@ Quick reference. For full definitions see `05-phonemic-schema.md`.
 
 Consonants define the forces of the system. They are not objects or entities, but qualities of motion: the ways in which something acts, changes, constrains, or propagates within a domain.
 
-Each consonant represents a distinct mode of interaction. These modes are compositional and directional. When combined with vowels, they produce structured meaning through the interaction of force and domain.
+Each consonant represents a distinct quality of motion. These qualities are compositional and directional. When combined with vowels, they produce structured meaning through the interaction of force and domain.
 
-Consonants do not carry meaning independently of vowels. They require a domain in which to operate. Their role is to shape, transform, or express what the vowel makes possible.
+Consonants do not carry meaning independently of vowels. They require a domain in which to operate. Their role is to shape, direct, or express what the vowel makes possible.
 
 If vowels define where existence occurs, consonants define how it behaves.
 
