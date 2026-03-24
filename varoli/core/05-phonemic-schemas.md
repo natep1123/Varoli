@@ -2,7 +2,7 @@
 
 ## Part I: Vowels 
 
-Vowels are the ontological foundation of the system. Each entry in this section defines a distinct domain of existence that cannot be reduced to or derived from any other.
+Vowels are the ontological foundation of the system. Each entry in this section defines a distinct elemental substrate that cannot be reduced to or derived from any other.
 
 These definitions are structural, not interpretive. They describe what each vowel is, not how it may be experienced or described metaphorically. The poetic field exists to aid intuition, but the function remains primary and invariant.
 
@@ -15,7 +15,7 @@ All higher structures in the language depend on the clarity and separation of th
 **Function (Invariant):**
 Undifferentiated origin. The substrate from which distinction can arise. Independent of relation, form, individuation, and field.
 
-**Substrate (Physical Basis):**
+**Articulation (Physical Basis):**
 The deepest vowel. Produced at the back of the throat, furthest from the surface, most interior. The sound moves inward rather than outward.
 
 **Kinetic Tendency:**
@@ -49,7 +49,7 @@ Pressure without location. Sub-zero. The silence that precedes sound rather than
 **Function (Invariant):**
 The condition in which appearance occurs. Not a substance or container but the structural prerequisite for anything to be perceived or related. Present wherever something appears without being the thing that appears.
 
-**Substrate (Physical Basis):**
+**Articulation (Physical Basis):**
 The narrowest vowel. The lips pull back, the tongue rises. Maximum tension, minimum opening. Air passes through everything without being held by anything.
 
 **Kinetic Tendency:**
@@ -83,7 +83,7 @@ The invisible. The breath already present before the decision to breathe. The si
 **Function (Invariant):**
 Relational resonance. The medium through which distinct things affect, connect, and dissolve into each other. Not the things themselves and not the field that contains them, but the dynamic of relation between them.
 
-**Substrate (Physical Basis):**
+**Articulation (Physical Basis):**
 The most open vowel. The jaw drops completely, the mouth opens without restriction. The sound is produced by total openness. Nothing is held back. The mouth enacts what the element is: complete receptivity.
 
 **Kinetic Tendency:**
@@ -117,7 +117,7 @@ The tide. The sensation of being surrounded by something that receives without c
 **Function (Invariant):**
 Individuation. The process by which something becomes distinct and maintains itself as a bounded identity separate from the field and from relation.
 
-**Substrate (Physical Basis):**
+**Articulation (Physical Basis):**
 The smallest vowel. The mouth barely opens. Closest to silence. Something already present makes itself distinct. Individuation does not arrive from outside. It emerges from within what was already there.
 
 **Kinetic Tendency:**
@@ -153,7 +153,7 @@ Collapse is performed by the operator (*y*). *e* is the state that results from 
 **Function (Invariant):**
 Stable, addressable form. That which is bounded, identifiable, and can be referenced as a specific thing. The element of the distinct object that persists long enough to be pointed to, held, and known.
 
-**Substrate (Physical Basis):**
+**Articulation (Physical Basis):**
 The rounded vowel. The lips form a circle, the mouth closes around a contained interior space. The sound is produced inside a bounded shape. The mouth becomes the thing it names: enclosed, specific, complete in itself.
 
 **Kinetic Tendency:**
@@ -186,7 +186,7 @@ The weight of stone underfoot. The cold and density of something that holds its 
 
 The operator is a structural mechanism, not a primitive of existence or motion. It acts on relationships between elements rather than participating in those relationships directly.
 
-Its role is to introduce and resolve indeterminacy in a controlled way. Where vowels and consonants define stable structure, the operator allows for transition, ambiguity, and collapse without loss of coherence.
+Its role is to introduce and resolve superposition in a controlled way. Where vowels and consonants define stable structure, the operator allows for transition, superposition, and collapse without loss of coherence.
 
 The operator must always be interpretable through context. It cannot introduce meaning that is not already structurally available. Its function is to delay resolution, not replace it.
 
@@ -200,7 +200,7 @@ Context-resolved collapse operator. Places a position into superposition: a stat
 Collapse is context-driven, not reader-driven. The surrounding structure constrains which resolution is valid. The reader does not choose freely; the structure determines the valid range of collapse.
 
 **Positional Behavior:**
-- In vowel position: marks an unresolved element. The element at this position is indeterminate. The surrounding structure constrains which vowel is a valid collapse. Any of the five vowels may be valid; none is permanently fixed.
+- In vowel position: marks an unresolved element. The element at this position is in superposition: unresolved pending structural context. The surrounding structure constrains which vowel is a valid collapse. Any of the five vowels may be valid; none is permanently fixed.
 - In consonant position: marks the active event of collapse within a structure. The moment potential becomes actual through structural resolution.
 - At the center of a palindrome: marks the attractor state as the collapse event itself. The center is not a substance but an event. This is the structural position of *y* in *eYe* and in the soul crucible.
 
