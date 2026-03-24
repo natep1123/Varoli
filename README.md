@@ -60,9 +60,9 @@ appendix/        Glossary, typographic system, supporting notes.
 
 Varoli uses capitalization to mark the **structural core** of a word: the attractor region the form resolves around. In simple forms, this may be a single character. In more complex forms, it may be a morphemic pair or another central unit. The exact typographic rules are still being formalized as the morphemic system develops.
 
-**aVa** — water eternal. The core attractor is **V**, centered between two waters in perfect balance.
-**arOva** — island. The core attractor is **O**, earth held within flow.
-**Varoli** — provisional public form of the spoken tongue.
+**aVa** — water eternal. The core attractor is **V**, centered between two waters in perfect balance.<br>
+**arOva** — island. The core attractor is **O**, earth held within flow.<br>
+**Varoli** — provisional public form of the spoken tongue.<br>
 **Yemu** — provisional public form of the unspoken tongue.
 
 For now, the language names are presented as **Varoli** and **Yemu** for clarity and consistency. Their deeper structural capitalization may later resolve differently as the morphemic pairing system is formalized.
