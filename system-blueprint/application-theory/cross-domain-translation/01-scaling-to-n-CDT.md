@@ -1,10 +1,10 @@
 # 01 — Scaling to N: Cross-Domain Structural Translation
 
-This document applies the foundational universality test defined in `../../03-scaling-to-n.md` to the domain of cross-system structural translation. It asks whether the architecture's translation capabilities remain sufficient as the number of independently constructed formal systems increases, and whether the structural guarantees that support translation between two systems hold across an arbitrarily growing network of systems.
+This document applies the foundational universality test defined in `../../03-scaling-to-n.md` to the domain of cross-system structural translation. It asks whether the Invariant Compositional Architecture's (ICA's) translation capabilities remain sufficient as the number of independently constructed formal systems increases, and whether the structural guarantees that support translation between two systems hold across an arbitrarily growing network of systems.
 
 This document does not test the architecture's generative capabilities. Those are tested in the domain-specific scaling documents. This document tests the architecture's interoperability capabilities: whether structures from increasing numbers of independent systems can be compared, mapped, and translated through shared architectural properties alone.
 
-For the formal architecture, see `../../01-system-blueprint.md`. For the general universality test, see `../../03-scaling-to-n.md`. For the cross-domain translation application properties, see `./00-overview-CDT.md`. This document introduces no new mechanics or terminology.
+For the formal Invariant Compositional Architecture, see `../../01-system-blueprint.md`. For the general universality test, see `../../03-scaling-to-n.md`. For the cross-domain translation application properties, see `./00-overview-CDT.md`. This document introduces no new mechanics or terminology.
 
 ---
 

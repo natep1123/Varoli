@@ -1,10 +1,10 @@
 # 00 — Overview: Cross-Domain Structural Translation
 
-This document describes how the architecture defined in `../../01-system-blueprint.md` applies to the domain of cross-system structural translation: the problem of validating, mapping, and translating structures between independently constructed formal systems without losing derivable meaning.
+This document describes how the Invariant Compositional Architecture (ICA) defined in `../../01-system-blueprint.md` applies to the domain of cross-system structural translation: the problem of validating, mapping, and translating structures between independently constructed formal systems without losing derivable meaning.
 
 This document does not describe a specific translation system. It describes the architectural properties that make structural translation possible, the theoretical model by which translation would operate, the constraints that apply, and the boundaries of what remains unproven.
 
-For the formal architecture, see `../../01-system-blueprint.md`. For terminology, see `../../00-blueprint-terminology.md`. Nothing in this document extends or modifies the architecture.
+For the formal Invariant Compositional Architecture, see `../../01-system-blueprint.md`. For terminology, see `../../00-blueprint-terminology.md`. Nothing in this document extends or modifies the architecture.
 
 ---
 

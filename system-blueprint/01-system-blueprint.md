@@ -1,8 +1,8 @@
-# 01 — System Blueprint
+# 01 — System Blueprint: Invariant Compositional Architecture
 
-## Architecture Specification
+## Invariant Compositional Architecture Specification
 
-This document defines the complete architecture as a formal system. It contains three axioms, seven derived laws, and three emergent behaviors. Everything in this document is expressed using only the terminology defined in `./00-blueprint-terminology.md`. No application-specific language is used. No implementation details are included.
+This document defines the complete Invariant Compositional Architecture (ICA) as a formal system. It contains three axioms, seven derived laws, and three emergent behaviors. Everything in this document is expressed using only the terminology defined in `./00-blueprint-terminology.md`. No application-specific language is used. No implementation details are included.
 
 This is a pre-implementation architecture. It defines the structural laws that any valid implementation must satisfy. It does not prescribe what the primitives are, how many exist, or what domains they describe. Those decisions belong to the implementation layer.
 

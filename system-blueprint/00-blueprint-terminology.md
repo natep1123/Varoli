@@ -1,6 +1,6 @@
-# 00 — Blueprint Terminology
+# 00 — Blueprint Terminology: Invariant Compositional Architecture
 
-This document defines the minimal set of terms required to describe the architecture. Every term maps to an axiom, derived law, or structural operation. No term is application-specific. No term requires knowledge of any implementation to understand.
+This document defines the minimal set of terms required to describe the Invariant Compositional Architecture (ICA). Every term maps to an axiom, derived law, or structural operation. No term is application-specific. No term requires knowledge of any implementation to understand.
 
 Terms are defined in dependency order. Each term is defined using only terms that precede it or are defined alongside it. No circular definitions. No metaphor. No synonyms.
 

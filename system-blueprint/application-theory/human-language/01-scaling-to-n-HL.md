@@ -1,10 +1,10 @@
 # 01 — Scaling to N: Human Language
 
-This document applies the foundational universality test defined in `../../03-scaling-to-n.md` to the domain of human language. It asks whether the architecture remains sufficient as the number of formally specified language systems increases, and whether the structural guarantees that hold for one language implementation hold across structurally diverse language systems.
+This document applies the foundational universality test defined in `../../03-scaling-to-n.md` to the domain of human language. It asks whether the Invariant Compositional Architecture (ICA) remains sufficient as the number of formally specified language systems increases, and whether the structural guarantees that hold for one language implementation hold across structurally diverse language systems.
 
 This document does not test universality across all domains. It tests universality within one domain — language — at increasing N. The question is narrower but no less important: is the architecture a substrate for one language, or for any language that can be formally specified under its conditions?
 
-For the formal architecture, see `../../01-system-blueprint.md`. For the general universality test, see `../../03-scaling-to-n.md`. For the human language application properties, see `./00-overview-HL.md`. This document introduces no new mechanics or terminology.
+For the formal Invariant Compositional Architecture, see `../../01-system-blueprint.md`. For the general universality test, see `../../03-scaling-to-n.md`. For the human language application properties, see `./00-overview-HL.md`. This document introduces no new mechanics or terminology.
 
 ---
 

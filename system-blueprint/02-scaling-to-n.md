@@ -1,12 +1,12 @@
-# 03 — Scaling to N
+# 02 — Scaling to N: Invariant Compositional Architecture
 
 ## The Foundational Universality Test
 
-This document defines the threshold test that determines whether the architecture described in `./01-system-blueprint.md` is a valid formal system for one domain, a reusable formal system for several domains, or a genuinely general structural substrate for all domains that can be formally specified.
+This document defines the threshold test that determines whether the Invariant Compositional Architecture (ICA) described in `./01-system-blueprint.md` is a valid formal system for one domain, a reusable formal system for several domains, or a genuinely general structural substrate for all domains that can be formally specified.
 
 This is not an application document. It is a test specification. It defines what the architecture must preserve under increasing domain diversity, what would constitute success, what would constitute failure, and what remains unknown.
 
-For the formal architecture, see `./01-system-blueprint.md`. For terminology, see `./00-blueprint-terminology.md`. This document uses only the terms defined in those sources.
+For the formal Invariant Compositional Architecture, see `./01-system-blueprint.md`. For terminology, see `./00-blueprint-terminology.md`. This document uses only the terms defined in those sources.
 
 ---
 
@@ -198,7 +198,7 @@ If the architecture does not scale, language remains the primary validated domai
 
 ## Summary
 
-Scaling to N is the foundational universality test of the system blueprint. It determines whether the architecture's guarantees — derivability, determinism, compositional meaning, canonical compression, lossless reconstruction, self-interpretation — are local properties of one implementation or general properties of all formally specifiable domains.
+Scaling to N is the foundational universality test of the Invariant Compositional Architecture. It determines whether the architecture's guarantees — derivability, determinism, compositional meaning, canonical compression, lossless reconstruction, self-interpretation — are local properties of one implementation or general properties of all formally specifiable domains.
 
 The test is defined by necessary conditions for passing, explicit failure conditions, a progressive scaling sequence, and a set of open questions that must be resolved empirically. No claim of universality is made in advance of evidence. The architecture is currently validated at N=1. Each subsequent stage of scaling either confirms the architecture's generality or reveals its boundaries.
 

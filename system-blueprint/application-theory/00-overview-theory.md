@@ -1,8 +1,8 @@
 # 00 — Overview: Application Theory
 
-This document describes the architecture in accessible language and identifies the domains where it applies. It is not a formal specification. For the formal system, see `../00-blueprint-terminology.md` and `../01-system-blueprint.md`.
+This document describes the Invariant Compositional Architecture (ICA) in accessible language and identifies the domains where it applies. It is not a formal specification. For the formal system, see `../00-blueprint-terminology.md` and `../01-system-blueprint.md`.
 
-Nothing in this document overrides the formal specification. If any statement here appears to conflict with the architecture document, the architecture document is authoritative.
+Nothing in this document overrides the formal specification. If any statement here appears to conflict with the ICA specification document, the ICA specification document is authoritative.
 
 ---
 
@@ -161,4 +161,4 @@ This overview describes what the architecture does and where it might apply. Sub
 - Each will state what the architecture provides and what the implementation must supply
 - Each will distinguish proven claims from untested hypotheses
 
-The formal architecture (`../01-system-blueprint.md`) is the authority. Application documents import from it. They do not modify it.
+The formal Invariant Compositional Architecture specification (`../01-system-blueprint.md`) is the authority. Application documents import from it. They do not modify it.
