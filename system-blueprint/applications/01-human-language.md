@@ -1,8 +1,8 @@
 # 01 — Human Language
 
-This document describes what happens when the architecture defined in `blueprint-01-architecture.md` is instantiated as a human language system. It does not describe a specific language. It describes the structural properties that any language built on this architecture would possess, the problems that disappear, the new capabilities that emerge, and the constraints that apply.
+This document describes what happens when the architecture defined in `../01-blueprint-architecture.md.md` is instantiated as a human language system. It does not describe a specific language. It describes the structural properties that any language built on this architecture would possess, the problems that disappear, the new capabilities that emerge, and the constraints that apply.
 
-For the formal architecture, see `blueprint-01-architecture.md`. For terminology, see `blueprint-00-terminology.md`. Nothing in this document extends or modifies the architecture. Everything stated here is a consequence of the axioms and laws applied to the domain of language.
+For the formal architecture, see `../01-blueprint-architecture.md.md`. For terminology, see `../00-blueprint-terminology.md`. Nothing in this document extends or modifies the architecture. Everything stated here is a consequence of the axioms and laws applied to the domain of language.
 
 ---
 

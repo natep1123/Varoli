@@ -1,6 +1,6 @@
-# Applications Overview
+# 00 — Applications Overview
 
-This document describes the architecture in accessible language and identifies the domains where it applies. It is not a formal specification. For the formal system, see `blueprint-00-terminology.md` and `blueprint-01-architecture.md`.
+This document describes the architecture in accessible language and identifies the domains where it applies. It is not a formal specification. For the formal system, see `../00-blueprint-terminology.md` and `../01-blueprint-architecture.md`.
 
 Nothing in this document overrides the formal specification. If any statement here appears to conflict with the architecture document, the architecture document is authoritative.
 
