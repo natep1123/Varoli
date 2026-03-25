@@ -42,9 +42,9 @@ The dive poem is their map. Yemu is the only language precise enough to carry th
 
 ---
 
-## The Psychedelic Dimension
+## The Metaphysical Dimension
 
-This is a metaphysical experience without substances. A type of guided, lived meditation.
+This is a metaphysical experience without substances.
 
 The compression mechanics, the gate codes, the zone declarations, the Y crossing: these are a technology. A way of moving awareness through states that most traditions require years of dedicated practice or specific substances to access. The language provides the structure that makes the movement deliberate rather than chaotic.
 

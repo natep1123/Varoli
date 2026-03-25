@@ -1,4 +1,4 @@
-# 02 — Naming: Varoli, Yemu, and the Soul Crucible
+# 01 — Naming: Varoli, Yemu, and the Soul Crucible
 
 *The complete record of how the language system was named and why.*
 
