@@ -12,13 +12,13 @@ The core specification is organized in dependency order. Each file builds on wha
 
 `01-primitives.md` defines the three categories of character: vowels, consonants, and operator. It states the hard rules that govern the entire system. Read this first.
 
-`02-vowels.md` is a compressed reference for the five elemental vowels. For full definitions see `05-phonemic-schema.md`.
+`02-vowels.md` is a compressed reference for the five elemental vowels. For full definitions see `05-phonemic-schemas.md`.
 
-`03-consonants.md` is a compressed reference for the twenty-one consonants. For full definitions see `05-phonemic-schema.md`.
+`03-consonants.md` is a compressed reference for the twenty-one consonants. For full definitions see `05-phonemic-schemas.md`.
 
-`04-operator-y.md` is a compressed reference for the operator. For full definition see `05-phonemic-schema.md`.
+`04-operator-y.md` is a compressed reference for the operator. For full definition see `05-phonemic-schemas.md`.
 
-`05-phonemic-schema.md` is the canonical source of truth for every character in the language. Full definitions for every character, including function, structure, and descriptive fields (register, poetic field, scale realization). All other files derive from this one.
+`05-phonemic-schemas.md` is the canonical source of truth for every character in the language. Full definitions for every character, including function, structure, and descriptive fields (register, poetic field, scale realization). All other files derive from this one.
 
 `06-generation-rules.md` defines how valid forms are constructed. These rules govern structure.
 

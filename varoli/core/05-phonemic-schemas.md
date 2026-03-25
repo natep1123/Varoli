@@ -1,4 +1,4 @@
-# 05 — Phonemic Schema
+# 05 — Phonemic Schemas
 
 ## Part I: Vowels 
 

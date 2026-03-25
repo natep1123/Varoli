@@ -141,7 +141,7 @@ The attractor state must always be determinable unambiguously from structure. Th
 
 The primitives establish the taxonomy and the rules. What each character specifically does, its quality of motion, its elemental substrate, its felt sense, its directional bias, is documented in full in:
 
-`05-phonemic-schema.md`
+`05-phonemic-schemas.md`
 
 The rules for how primitives combine into valid words are documented in:
 

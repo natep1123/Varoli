@@ -78,7 +78,7 @@ Descriptive language may vary outside the structural layer, but must not contrad
 | **Interpretation** | The reading of meaning from structure. | Governed by interpretation rules. |
 | **Derivable** | A structure that can be fully reduced to primitives. | Required for validity. |
 | **Non-derivable** | A structure that cannot be reduced to primitives. | Invalid unless marked as exploratory. |
-| **Scale Realization** | The expression of a primitive's invariant function at a specific scale of context (internal, external, temporal, dimensional). | Function does not change across scales. Only the scope of application changes. Used in `05-phonemic-schema.md`. |
+| **Scale Realization** | The expression of a primitive's invariant function at a specific scale of context (internal, external, temporal, dimensional). | Function does not change across scales. Only the scope of application changes. Used in `05-phonemic-schemas.md`. |
 
 ---
 
