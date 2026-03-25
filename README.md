@@ -50,7 +50,7 @@ Everything else builds from that foundation. Varoli can be used without understa
 varoli/
   introduction.md        Experiential entry point
   core/                  Locked canonical system: primitives, schema, rules, typography
-  grammar/               Applied grammar: primitive verbs, subject markers, sentences
+  grammar/               Applied grammar: verbs, subject markers, nouns, sentences
 
 yemu/
   core/                  Structural overview and compression mechanics
@@ -58,6 +58,8 @@ yemu/
 
 self-crucible/
   core/                  The central structural object from which both language names are derived
+
+system-blueprint/        The domain-agnostic architecture underlying this language (see below)
 
 open-notes/              Exploratory ideas and hypotheses (non-canonical)
 ```
@@ -113,16 +115,30 @@ The names were not chosen. They were extracted from the soul crucible the same w
 
 ---
 
+## The System Blueprint
+
+The process of building Varoli revealed that the structural principles underlying the language are not specific to language. Typed primitives with invariant function, non-overlapping role classes, directional composition, stability through symmetric closure, explicit superposition, role-ordered compression, and deterministic reconstruction are architectural properties that apply beyond any single domain.
+
+The `system-blueprint/` folder documents these principles as a domain-agnostic architecture: three axioms, seven derived laws, and their consequences. The blueprint was extracted from the language, not imposed on it. Varoli is the first and most complete implementation. The blueprint describes the engine. The language is what the engine produces.
+
+The blueprint is independent of the language. Someone could read `system-blueprint/` without knowing Varoli exists and understand the architecture on its own terms. But the language came first, and the language remains the primary work of this repository.
+
+---
+
 ## Status
 
 Foundation complete. Active development.
 
 - Primitive system locked: 27 characters across three category types
 - Phonemic schema complete with function and poetic fields
+- Full primitive verb system: 220 forms across 22 consonant/operator sets with inversions
+- 25 primitive nouns mapped across attractor and operator palindromes
+- Subject markers and primitive sentences established
 - Morphemic system established
 - Typographic rules locked
 - Naming system derived and validated
 - Soul crucible confirmed as coherent, non-redundant, structurally tight
+- System blueprint extracted: 3 axioms, 7 derived laws, closed terminology, application documents
 
 The system is generative. Valid forms can be produced without the author's intuition. Independent formal analysis confirms internal consistency across all layers.
 
