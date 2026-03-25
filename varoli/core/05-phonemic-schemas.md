@@ -1,5 +1,7 @@
 # 05 — Phonemic Schemas
 
+---
+
 ## Part I: Vowels 
 
 Vowels are the ontological foundation of the system. Each entry in this section defines a distinct elemental substrate that cannot be reduced to or derived from any other.
@@ -7,6 +9,41 @@ Vowels are the ontological foundation of the system. Each entry in this section 
 These definitions are structural, not interpretive. They describe what each vowel is, not how it may be experienced or described metaphorically. The poetic field exists to aid intuition, but the function remains primary and invariant.
 
 All higher structures in the language depend on the clarity and separation of these domains. If any two overlap, the system collapses. If they remain distinct, the system remains stable under expansion.
+
+---
+
+## Vowel Schema
+
+[Vowel] — [Element Name]
+
+**Function (Invariant):**
+The elemental substrate this vowel defines. This is fixed and cannot change with context.
+
+**Articulation (Physical Basis):**
+The acoustic and articulatory quality of the sound that grounds its elemental identity.
+
+**Kinetic Tendency:**
+The natural directional behavior of this substrate as it relates to interpretation. Descriptive, not structural. Distinct from consonant directional bias.
+
+**Register (Experiential Layer):**
+The mode of awareness or identity layer associated with this substrate. Descriptive, not structural.
+
+**Scale Realization:**
+How this function manifests across different scales:
+- Internal vs external
+- Temporal (momentary vs persistent vs eternal)
+- Dimensional (surface vs depth vs breakthrough)
+
+Scale realization does not change the function. It describes how the same invariant function appears in different contexts.
+
+**Exclusion:**
+What this vowel is not. Enforces non-overlap between elemental substrates. Each exclusion must reference the correct vowel by name.
+
+**Poetic Field (Mnemonic):**
+A concise, embodied sense of the element. Subordinate to function. Aids intuition but cannot override structural definition.
+
+**Notes (Optional):**
+Structural constraints, pronoun assignments, palindromic forms, or relationships to other primitives.
 
 ---
 
@@ -192,6 +229,33 @@ The operator must always be interpretable through context. It cannot introduce m
 
 ---
 
+## Operator Schema
+
+[Operator] — [Operator Name]
+
+**Function (Invariant):**
+The structural operation this operator performs. Not an element. Not a force. Acts on relationships between primitives rather than participating in them.
+
+**Positional Behavior:**
+How the operator's function is expressed depending on its position in a structure (vowel position, consonant position, palindrome center).
+
+**Scope of Action:**
+What the operator acts on: the position it occupies and the surrounding structure. In palindromic forms, the scope extends outward from center.
+
+**Poetic Field (Mnemonic):**
+A concise, embodied sense of the operator's action. Subordinate to function.
+
+**Exclusion:**
+What this operator is not. Must explicitly state that the operator carries no elemental substrate, no quality of motion, and no equivalence to any vowel or consonant.
+
+**Operational Role (Contextual):**
+How the operator typically behaves within Varoli surface language and within Yemu compression.
+
+**Notes (Optional):**
+Structural constraints, relationships to specific elements (e.g., fire/eYe), and palindromic behavior.
+
+---
+
 ### y — Superposition-Collapse Operator
 
 **Function (Invariant):**
@@ -234,6 +298,36 @@ These forces are compositional. They do not introduce new entities, only new int
 Each consonant has an invariant function and a directional bias. These two properties together determine how it behaves in any structure. Neither can be separated from the other.
 
 All valid constructions depend on these forces remaining distinct, directional, and non-overlapping.
+
+---
+
+## Consonant Schema
+
+[Consonant] — [Force Name]
+
+**Function (Invariant):**
+The specific quality of motion this consonant represents. This is fixed and cannot change with context.
+
+**Quality of Motion:**
+A precise description of what the force does.
+
+**Directional Bias:**
+The natural vector of the force (e.g., inward, outward, bidirectional, static, threshold, permeating).
+
+**Articulation (Physical Basis):**
+The mechanics of producing the sound that grounds its kinetic identity.
+
+**Poetic Field (Mnemonic):**
+A concise, embodied sense of the force. Subordinate to function.
+
+**Elemental Affinity (Attractor Set Only):**
+The element this consonant makes real when acting as its attractor. This field is present only for attractor consonants (v, l, r, m). It is absent for general consonants.
+
+**Operational Role (Contextual):**
+How this force typically behaves within structures. Includes CV/VC positional behavior and common compositional patterns.
+
+**Notes (Optional):**
+Structural constraints, pair relationships, distinctions from similar consonants, or other behavioral boundaries.
 
 ---
 
