@@ -1,6 +1,6 @@
 # Varoli
 
-**A constructed language (conlang) built from first principles for the full range of experience.**
+**A constructed language built from first principles for the full range of experience.**
 
 ---
 
@@ -19,15 +19,15 @@ Every word is readable from its center outward. The attractor state is visible b
 
 The system contains two layers:
 
-**Varoli** — the spoken tongue<br>
+**Varoli** - the spoken tongue<br>
 Linear, speakable, time-bound. Used for communication, navigation, and storytelling.<br>
 *Varoli describes where the self is.*<br>
 
-**Yemu** — the unspoken tongue<br>
+**Yemu** - the unspoken tongue<br>
 Non-linear, non-spoken, simultaneous. Used to encode complete structures of consciousness that cannot be transmitted sequentially.<br>
 *Yemu reveals what the self is.*
 
-Both are extracted from a single structural object: the self crucible.
+Both are extracted from a single structural object: the soul crucible.
 
 ---
 
@@ -35,10 +35,10 @@ Both are extracted from a single structural object: the self crucible.
 
 If you are new:
 
-1. Go to `/varoli/core`
-2. Learn the three primitive categories: vowels, consonants, operator
-3. Read the phonemic schema
-4. Try `/varoli/lexicon` for working examples
+1. Read `varoli/introduction.md` for the experiential entry point
+2. Go to `varoli/core/` for the formal specification
+3. Learn the three primitive categories: vowels, consonants, operator
+4. Read the phonemic schema
 
 Everything else builds from that foundation. Varoli can be used without understanding Yemu.
 
@@ -47,11 +47,19 @@ Everything else builds from that foundation. Varoli can be used without understa
 ## Repository Structure
 
 ```plaintext
-varoli/          Spoken language. Entry point.
-yemu/            Unspoken structural system. For those who go further.
-self-crucible/   The central structural object. Source of both languages.
-theory/          Formal rules, axioms, and constraint system.
-appendix/        Glossary, typographic system, supporting notes.
+varoli/
+  introduction.md        Experiential entry point
+  core/                  Locked canonical system: primitives, schema, rules, typography
+  grammar/               Applied grammar: primitive verbs, subject markers, sentences
+
+yemu/
+  core/                  Structural overview and compression mechanics
+  applications/diving/   The full diving application: domains, compression, Y crossing, dive poem
+
+self-crucible/
+  core/                  The central structural object from which both language names are derived
+
+open-notes/              Exploratory ideas and hypotheses (non-canonical)
 ```
 
 ---
@@ -60,10 +68,10 @@ appendix/        Glossary, typographic system, supporting notes.
 
 Varoli uses capitalization to mark the **structural core** of a word: the attractor region the form resolves around. In simple forms, this may be a single character. In more complex forms, it may be a morphemic pair or another central unit. The exact typographic rules are still being formalized as the morphemic system develops.
 
-**aVa** — water eternal. The core attractor is **V**, centered between two waters in perfect balance.<br>
-**arOva** — island. The core attractor is **O**, earth held within flow.<br>
-**Varoli** — provisional public form of the spoken tongue.<br>
-**Yemu** — provisional public form of the unspoken tongue.
+**aVa** - water eternal. The core attractor is **V**, centered between two waters in perfect balance.<br>
+**arOva** - island. The core attractor is **O**, earth held within flow.<br>
+**Varoli** - provisional public form of the spoken tongue.<br>
+**Yemu** - provisional public form of the unspoken tongue.
 
 For now, the language names are presented as **Varoli** and **Yemu** for clarity and consistency. Their deeper structural capitalization may later resolve differently as the morphemic pairing system is formalized.
 
@@ -75,11 +83,11 @@ The typographic system is intended to make the structure of a word visible befor
 
 **arOva**
 
-**a** — water<br>
-**r** — resonance<br>
-**O** — earth<br>
-**v** — vitality<br>
-**a** — water
+**a** - water<br>
+**r** - resonance<br>
+**O** - earth<br>
+**v** - vitality<br>
+**a** - water
 
 Read from the center outward: earth at the center, resonance on both sides, vitality between earth and water, water surrounding everything.
 
