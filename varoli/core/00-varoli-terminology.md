@@ -1,4 +1,4 @@
-# 00 — Terminology
+# 00 — Varoli Terminology
 
 This document defines the canonical terminology used across Varoli.  
 These terms are binding within the structural layer of the system.
