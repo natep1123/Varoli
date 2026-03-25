@@ -10,11 +10,9 @@ Three consonants carry the dimensional wrapper system:
 
 **v** — vitality, the living force. Marks the Liminal zone: water where light reaches, the medium of relational resonance.
 
-**m** — depth, sustained interior resonance. Marks the Black Sun zone: the void, the space of maximum depth.
+**m** — depth, inward force toward the interior. Marks the Black Sun zone: the void, the space of maximum depth.
 
 **l** — continuum, the thread that persists. Marks the Always zone: the eternal continuum, the layer prior to all form.
-
-**h** — the boundary consonant, the marker of every door. Appears in gate codes to mark the moment of crossing between zones. Belongs to no single zone. Marks every threshold.
 
 ---
 
@@ -28,7 +26,7 @@ A zone declaration announces presence in a medium. It uses the structure:
 
 *e* at the center is the self (*e* = individuation, fire). The zone consonant on both sides names the medium. The declaration reads: the self is present in this medium.
 
-Zone declarations are spoken upon entry into a zone and again immediately before departing. Entry and exit use the same declaration. The direction changes. The word does not.
+Zone declarations are registered upon entry into a zone and again immediately before departing. Entry and exit use the same declaration. The direction changes. The word does not.
 
 | Declaration | Zone | Reading |
 |-------------|------|---------|

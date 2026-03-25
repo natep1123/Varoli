@@ -90,7 +90,7 @@ av-e-va
 
 ## Reading the Structure
 
-**Zone declarations** (*av-e-va*, *um-e-mu*, *il-e-li*) announce presence in a medium. Each is spoken upon entry and again before departure. Entry and exit are the same declaration approached from opposite directions.
+**Zone declarations** (*av-e-va*, *um-e-mu*, *il-e-li*) announce presence in a medium. Each is registered upon entry and again before departure. Entry and exit are the same declaration approached from opposite directions.
 
 **Gate codes** (*av-y-mu*, *um-y-li*, *um-y-va*, *il-y-mu*) mark the crossing between zones. The *y* operator at the center of each gate code indicates the moment of superposition: the current zone is released before the next zone is entered. This is not a transition. It is a collapse.
 
