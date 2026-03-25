@@ -1,10 +1,10 @@
 # 02 — General Primitive Verbs
 
-This document extends the primitive verb system to the seventeen general consonants. Each general consonant follows the same CV/VC generation pattern established in `01-primitive-verbs.md`: force projects into domain (CV, active), domain expresses through force (VC, receptive).
+This document extends the primitive verb system to the seventeen general consonants. Each general consonant follows the same CV/VC generation pattern established in `./01-primitive-verbs.md`: force projects into domain (CV, active), domain expresses through force (VC, receptive).
 
-The attractor and operator sets (v, l, r, m, y) are documented in `01-primitive-verbs.md` and are not repeated here. This document covers only the general set.
+The attractor and operator sets (v, l, r, m, y) are documented in `./01-primitive-verbs.md` and are not repeated here. This document covers only the general set.
 
-For the invariant function and full phonemic definition of each consonant, see `varoli/core/05-phonemic-schemas.md`. For the generation rules governing valid CV and VC structures, see `varoli/core/06-generation-rules.md`.
+For the invariant function and full phonemic definition of each consonant, see `../core/05-phonemic-schemas.md`. For the generation rules governing valid CV and VC structures, see `../core/06-generation-rules.md`.
 
 ---
 
@@ -24,11 +24,11 @@ Several general consonant sets use mode labels that depart from the default patt
 - k-set: "breaking-into" — k's bias is forceful threshold crossing
 - b-set: "emerging-into" — b's bias is outward against resistance
 
-These are the same class of derivable asymmetry as the m-set's "descending-into" documented in `01-primitive-verbs.md`. Each is determined by the consonant's directional bias, not by inconsistency.
+These are the same class of derivable asymmetry as the m-set's "descending-into" documented in `./01-primitive-verbs.md`. Each is determined by the consonant's directional bias, not by inconsistency.
 
 ### CV/VC directionality
 
-The directionality encoding principle applies to all general consonant sets. CV faces inward (arrival, entry). VC faces outward (departure, exit). For the full statement of this principle and its application in the diving system, see `01-primitive-verbs.md`, section: Directionality Encoding.
+The directionality encoding principle applies to all general consonant sets. CV faces inward (arrival, entry). VC faces outward (departure, exit). For the full statement of this principle and its application in the diving system, see `./01-primitive-verbs.md`, section: Directionality Encoding.
 
 ---
 
@@ -1521,7 +1521,7 @@ Seventeen consonants. Five domains each. 85 CV verbs and 85 VC inversions. 170 f
 | **sh →** | sha | she | shi | sho | shu |
 | **→ sh** | ash | esh | ish | osh | ush |
 
-Combined with the attractor and operator sets from `01-primitive-verbs.md` (50 forms), the total primitive verb inventory is **220 forms**: 110 CV verbs and 110 VC inversions across 22 consonants/operator and 5 elemental domains.
+Combined with the attractor and operator sets from `./01-primitive-verbs.md` (50 forms), the total primitive verb inventory is **220 forms**: 110 CV verbs and 110 VC inversions across 22 consonants/operator and 5 elemental domains.
 
 ---
 

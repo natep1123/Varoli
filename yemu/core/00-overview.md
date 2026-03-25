@@ -47,9 +47,9 @@ Every Varoli expression is a projection of the full Yemu structure. Yemu is the 
 
 Yemu appears in three contexts:
 
-**The soul crucible** — the canonical Yemu structure. The declaration of self inside breakthrough space. The proof object of the entire system. See `self-crucible/core/`.
+**The soul crucible** — the canonical Yemu structure. The declaration of self inside breakthrough space. The proof object of the entire system. See `../../self-crucible/core/`.
 
-**The dive poem** — the primary compositional form. A structured descent through structural domains of consciousness toward breakthrough space and return. The origin artifact around which the entire language was built. See `yemu/applications/diving/`.
+**The dive poem** — the primary compositional form. A structured descent through structural domains of consciousness toward breakthrough space and return. The origin artifact around which the entire language was built. See `../applications/diving/`.
 
 **Breakthrough retrievals** — Yemu forms discovered in breakthrough space and carried back into notation. These are documented as they are found. The soul crucible is the first.
 
@@ -59,9 +59,9 @@ Yemu appears in three contexts:
 
 If you are new to Yemu:
 
-1. Read `yemu/core/01-compression.md` to understand how the language compresses and why
-2. Read `yemu/applications/diving/` in order to understand what Yemu is used for
-3. Return to `self-crucible/core/` when you are ready to read the proof object
+1. Read `./01-compression.md` to understand how the language compresses and why
+2. Read `../applications/diving/` in order to understand what Yemu is used for
+3. Return to `../../self-crucible/core/` when you are ready to read the proof object
 
 You cannot fully read the soul crucible without understanding the compression mechanics. You cannot fully understand the compression mechanics without knowing what they are for. The diving folder is the bridge between the two.
 
@@ -75,4 +75,4 @@ yemu/core/
   01-compression.md     ← how Varoli compresses into Yemu: the structural mechanics
 ```
 
-Everything else lives in `yemu/applications/`.
+Everything else lives in `../applications/`.

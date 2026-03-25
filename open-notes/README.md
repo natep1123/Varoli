@@ -3,7 +3,7 @@
 This folder contains exploratory ideas, hypotheses, and partial structures.
 
 Nothing here is locked.
-Nothing here overrides `/varoli/core`.
+Nothing here overrides `../varoli/core/`.
 
 These notes exist to:
 - explore directions before formalization

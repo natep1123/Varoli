@@ -35,8 +35,8 @@ Both are extracted from a single structural object: the soul crucible.
 
 If you are new:
 
-1. Read `varoli/introduction.md` for the experiential entry point
-2. Go to `varoli/core/` for the formal specification
+1. Read `./varoli/introduction.md` for the experiential entry point
+2. Go to `./varoli/core/` for the formal specification
 3. Learn the three primitive categories: vowels, consonants, operator
 4. Read the phonemic schema
 

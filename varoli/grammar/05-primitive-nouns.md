@@ -6,7 +6,7 @@ Palindromic closure is a hard requirement for nouns. Non-palindromic VCV forms h
 
 This document covers the 25 primitive palindromic nouns produced by the four attractor consonants (v, l, r, m) and the operator (y) across the five elemental domains. General consonant nouns follow the same pattern and are documented separately.
 
-For the invariant function of each primitive, see `varoli/core/05-phonemic-schemas.md`. For generation rules governing palindromic forms, see `varoli/core/06-generation-rules.md`.
+For the invariant function of each primitive, see `../core/05-phonemic-schemas.md`. For generation rules governing palindromic forms, see `../core/06-generation-rules.md`.
 
 ---
 
@@ -402,7 +402,7 @@ The void. The trench. The deep that descends into itself. The Black Sun.
 
 The operator palindromes form a structurally distinct category. Where the attractor palindromes name things that persist because a force is held steady, the operator palindromes name things that persist because a collapse event is held steady. These are nouns of threshold — stable forms built around an inherently instantaneous event.
 
-The operator's positional behavior at palindrome center is documented in `05-phonemic-schemas.md`: "At the center of a palindrome: marks the attractor state as the collapse event itself. The center is not a substance but an event."
+The operator's positional behavior at palindrome center is documented in `../core/05-phonemic-schemas.md`: "At the center of a palindrome: marks the attractor state as the collapse event itself. The center is not a substance but an event."
 
 ---
 

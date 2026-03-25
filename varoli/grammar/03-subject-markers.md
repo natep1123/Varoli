@@ -4,7 +4,7 @@ Subject markers are single vowels that precede a verb to indicate the perspectiv
 
 Each vowel defines a perspective that corresponds to its elemental substrate. The subject marker answers: from whose position is this verb being experienced?
 
-For the elemental definitions of each vowel, see `02-vowels.md` in `varoli/core/`.
+For the elemental definitions of each vowel, see `../core/02-vowels.md`.
 
 ---
 

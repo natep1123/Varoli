@@ -214,4 +214,4 @@ Nine sentences. Five verb sets. Five elemental palindromes. Each sentence proves
 
 These nine sentences are demonstrations, not an exhaustive inventory. Any combination of subject marker + primitive verb + locked noun is a valid primitive sentence under the generation rules. The nine selected here are chosen because each reveals a structural property that the others do not.
 
-General consonant verb sentences (using forms from `02-primitive-verbs-extended.md`) will produce valid sentences following the same pattern. Their documentation is deferred until compound and complex sentence structures are formalized.
+General consonant verb sentences (using forms from `./02-primitive-verbs-extended.md`) will produce valid sentences following the same pattern. Their documentation is deferred until compound and complex sentence structures are formalized.

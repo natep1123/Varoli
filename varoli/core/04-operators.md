@@ -1,6 +1,6 @@
 # 04 — Operators
 
-Quick reference. For full definition see `05-phonemic-schemas.md`.
+Quick reference. For full definition see `./05-phonemic-schemas.md`.
 
 Operators are not elements or forces. They do not belong to the same class as vowels or consonants. An operator acts on structure itself.
 

@@ -8,7 +8,7 @@ The CV direction is primary. Force projects into element. The VC inversion (elem
 
 This document covers the four attractor sets (v, l, r, m) and the operator set (y). The attractor sets each produce five verbs by projecting a single attractor force across all five elemental substrates. The operator set produces five verbs by projecting the collapse event across the same five substrates. Together these yield twenty-five primitive verbs. The attractor sets describe modes of existence. The operator set describes modes of becoming.
 
-For the function and poetic definitions of each primitive, see `02-vowels.md` and `03-consonants.md` in `varoli/core/`. For generation rules governing valid CV structures, see `06-generation-rules.md`.
+For the function and poetic definitions of each primitive, see `../core/02-vowels.md` and `../core/03-consonants.md`. For generation rules governing valid CV structures, see `../core/06-generation-rules.md`.
 
 ---
 
@@ -461,7 +461,7 @@ This is already operative in the Yemu diving system. The zone declarations are p
 
 The gate codes make this explicit. In *av-y-mu*, the left side (*av*) is VC — departure from the current domain. The right side (*mu*) is CV — arrival at the next domain. The operator *y* sits between them as the collapse event that separates release from crystallization. The gate code is the structural junction between departure and arrival, with directionality encoded in the morpheme order.
 
-This means every primitive verb carries a built-in orientation. The CV form faces inward. The VC form faces outward. The palindrome holds both. See `yemu/applications/diving/01-domains.md` for the application of this principle in the diving mechanics.
+This means every primitive verb carries a built-in orientation. The CV form faces inward. The VC form faces outward. The palindrome holds both. See `../../yemu/applications/diving/01-domains.md` for the application of this principle in the diving mechanics.
 
 ---
 
@@ -473,7 +473,7 @@ The y-set is structurally distinct from the four attractor sets. The attractor v
 
 The y-verbs describe modes of becoming: the moment an unresolved state collapses into a specific domain. Not the state. The strike. Where the attractor verbs are thunder, the y-verbs are lightning.
 
-The y-set is valid under generation rules. CV structure with the operator in consonant position is documented positional behavior in `05-phonemic-schemas.md`: "In consonant position: marks the active event of collapse within a structure. The moment potential becomes actual through structural resolution."
+The y-set is valid under generation rules. CV structure with the operator in consonant position is documented positional behavior in `../core/05-phonemic-schemas.md`: "In consonant position: marks the active event of collapse within a structure. The moment potential becomes actual through structural resolution."
 
 Each entry below describes what it means for the collapse event to occur within a specific elemental domain.
 

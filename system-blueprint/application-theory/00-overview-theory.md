@@ -1,6 +1,6 @@
-# 00 — Applications Overview
+# 00 — Overview: Application Theory
 
-This document describes the architecture in accessible language and identifies the domains where it applies. It is not a formal specification. For the formal system, see `../00-blueprint-terminology.md` and `../01-blueprint-architecture.md`.
+This document describes the architecture in accessible language and identifies the domains where it applies. It is not a formal specification. For the formal system, see `../00-blueprint-terminology.md` and `../01-system-blueprint.md`.
 
 Nothing in this document overrides the formal specification. If any statement here appears to conflict with the architecture document, the architecture document is authoritative.
 
@@ -161,4 +161,4 @@ This overview describes what the architecture does and where it might apply. Sub
 - Each will state what the architecture provides and what the implementation must supply
 - Each will distinguish proven claims from untested hypotheses
 
-The formal architecture (`blueprint-01-architecture.md`) is the authority. Application documents import from it. They do not modify it.
+The formal architecture (`../01-system-blueprint.md`) is the authority. Application documents import from it. They do not modify it.

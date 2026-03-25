@@ -1,6 +1,6 @@
 # Introduction: The Architecture of Awareness
 
-If you are looking for the formal structure of the language, begin in `/varoli/core`.
+If you are looking for the formal structure of the language, begin in `./core/`.
 
 This document is something else. It is the felt experience before the formal system. It does not teach you Varoli. It asks you to encounter it. Read it the way you would walk into a place you have never been: slowly, without agenda, letting what is there arrive before you decide what it means.
 

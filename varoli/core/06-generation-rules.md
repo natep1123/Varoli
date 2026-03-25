@@ -93,4 +93,4 @@ A valid form:
 
 ---
 
-Sentence-level constructions such as subject markers are defined in `varoli/grammar/02-subject-markers.md`.
+Sentence-level constructions such as subject markers are defined in `../grammar/03-subject-markers.md`.

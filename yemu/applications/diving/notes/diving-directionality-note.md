@@ -56,4 +56,4 @@ The dive poem's bilateral symmetry around the Y crossing is not decorative. It i
 
 ## Reference
 
-For the formal definition of CV/VC directionality in the verb system, see `varoli/grammar/01-primitive-verbs.md`, section: Directionality Encoding.
+For the formal definition of CV/VC directionality in the verb system, see `../../../../varoli/grammar/01-primitive-verbs.md`, section: Directionality Encoding.

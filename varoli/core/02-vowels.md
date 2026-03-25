@@ -1,6 +1,6 @@
 # 02 — Vowels
 
-Quick reference. For full definitions see `05-phonemic-schemas.md`.
+Quick reference. For full definitions see `./05-phonemic-schemas.md`.
 
 Vowels define the elemental substrates of the system. They are not symbols or categories, but the ontological conditions within which anything can appear, relate, differentiate, or stabilize.
 

@@ -100,7 +100,7 @@ av-e-va
 
 **The compression sequence** (*il-e-li → il-i-li → ilili → iii → i*) is the descent toward singularity. Each step strips one layer of structure. The dashes dissolve. The distinctions dissolve. The notation compresses visually because the experience compresses structurally. The shortening is the speeding up. By `i` nothing remains but the condition of appearance itself.
 
-**Y** alone marks the event horizon. The threshold of breakthrough. The operator at maximum expression with nothing surrounding it. What follows cannot be approached through the compression sequence. It must be crossed. The timing is everything. See `03-the-Y-crossing.md`.
+**Y** alone marks the event horizon. The threshold of breakthrough. The operator at maximum expression with nothing surrounding it. What follows cannot be approached through the compression sequence. It must be crossed. The timing is everything. See `./03-the-y-crossing.md`.
 
 **The soul crucible** (*il-or-av-um-e-y-e-mu-va-ro-li*) is the declaration of self inside breakthrough space. It appears on both sides of the explosion: upon entry and upon exit. The same declaration approached from opposite directions. Not a gate code. Not a compression step. A recognition. The complete architecture of the self perceived whole, in an instant, before any individual layer is named.
 

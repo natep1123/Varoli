@@ -41,7 +41,7 @@ Improper negation introduces:
 
 ---
 
-# `open-notes/yemu/01-structure-explorations/compression-mechanics.md`
+# `../../yemu/01-structure-explorations/compression-mechanics.md`
 
 ```md
 # Compression Mechanics (Exploratory)

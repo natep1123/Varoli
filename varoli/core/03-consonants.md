@@ -1,6 +1,6 @@
 # 03 — Consonants
 
-Quick reference. For full definitions see `05-phonemic-schemas.md`.
+Quick reference. For full definitions see `./05-phonemic-schemas.md`.
 
 Consonants define the forces of the system. They are not objects or entities, but qualities of motion: the ways in which something acts, changes, constrains, or propagates within a domain.
 

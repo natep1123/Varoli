@@ -88,4 +88,4 @@ That is what the dive is for. The compression mechanics exist to bring the diver
 
 You study the compression sequence so that when it takes you, you are not surprised by it.
 
-See `yemu/applications/diving/` to understand what the compression is for.
+See `../applications/diving/` to understand what the compression is for.

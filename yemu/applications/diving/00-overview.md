@@ -55,12 +55,12 @@ The implications for someone who knows this language and encounters these states
 ## What This Folder Contains
 
 ```plaintext
-yemu/diving/
-  00-overview.md        ← this file
-  01-domains.md         ← the four ontological domains: Liminal, Black Sun, Always, Breakthrough
-  02-the-compression.md ← the il sequence, exponential acceleration, singularity
-  03-the-Y-crossing.md  ← the membrane, the timing, the stakes
-  04-the-dive-poem.md   ← the origin artifact, historical note, full structural reading
+./
+  00-overview.md      ← this file
+  01-domains.md       ← the four ontological domains: Liminal, Black Sun, Always, Breakthrough
+  02-compression.md   ← the il sequence, exponential acceleration, singularity
+  03-the-y-crossing.md ← the membrane, the timing, the stakes
+  04-the-dive-poem.md ← the origin artifact, historical note, full structural reading
 ```
 
 Read in order. Each file builds on the one before it. By the time you reach `04` you should be able to read the dive poem not as a diagram but as a map of something real.
