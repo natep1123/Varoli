@@ -1,0 +1,361 @@
+# .cursorrules — Varoli / ICA Project Rules
+
+## 0. Mission
+
+Preserve the structural integrity of **Invariant Compositional Architecture (ICA)** and **Varoli**.
+Favor **derivation over invention**.
+Do not generate, normalize, or approve any form that cannot be reconciled with the current layer hierarchy.
+
+---
+
+## 1. Immutable hierarchy
+
+Treat repository layers in this authority order:
+
+### Ground-0 — ICA abstract law
+**Status:** highest authority  
+**Role:** abstract architecture, terminology, blueprint, scaling logic  
+**Rule:** Ground-0 defines the architectural constraints that no lower layer may contradict.
+
+### Ground-1 — Varoli adaptation bridge
+**Status:** canonical bridge  
+**Role:** explains how ICA becomes Varoli  
+**Rule:** Ground-1 governs the mapping from ICA into Varoli. When evaluating whether a new Varoli development is lawful, check Ground-1 before approving it.
+
+### Ground-2 — Varoli-native orientation
+**Status:** working canon  
+**Role:** Varoli terminology and conceptual overview  
+**Rule:** Ground-2 defines how Varoli should currently be understood in its own terms. Prefer Ground-2 vocabulary and framing when writing or revising Varoli documents.
+
+### Ground-3 — active structural development
+**Status:** serious working structure, some files stronger than others  
+**Role:** named structural developments, frontier architecture, current formalization work  
+**Rule:** Ground-3 may guide development, but remains revisable if it conflicts with Ground-0, Ground-1, Ground-2, or later derivation and testing.
+
+### Ground-3/exploring
+**Status:** exploratory only  
+**Role:** next-step investigations, unresolved pressure points, frontier tests  
+**Rule:** do not promote exploratory content into canon without explicit derivation and propagation.
+
+### Conflict rule
+When two files conflict:
+1. Ground-0 wins
+2. Ground-1 wins over Ground-2 and below
+3. Ground-2 wins over Ground-3
+4. Ground-3 wins over exploratory notes
+5. Never let a lower layer silently redefine a higher one
+
+---
+
+## 2. Primitive class constraints
+
+The system has **three primitive classes only**:
+
+### Substrates
+Varoli realization: vowels  
+ICA role: substrate class  
+Function: ontological domain / condition
+
+### Kinetics
+Varoli realization: consonants  
+ICA role: kinetic class  
+Function: quality of motion / force
+
+### Operator
+Varoli realization: `y`  
+ICA role: operator class  
+Function: superposition / collapse governance
+
+### Non-overlap rules
+These are strict.
+
+- A substrate may not behave as a kinetic.
+- A kinetic may not behave as a substrate.
+- `y` may not be treated as substrate or kinetic.
+- No new primitive class may be introduced casually.
+- No primitive may change invariant function by context.
+- No primitive may be reinterpreted just to make a composition work.
+- Positional behavior may change structural role, but not primitive class.
+- A framing substrate is still a substrate.
+- A suffix consonant is still kinetic.
+- `y` in any position remains operator class.
+
+### Safety rule
+If a proposed form requires:
+- a vowel acting like force
+- a consonant acting like domain
+- `y` acting like a vowel or consonant
+- a hidden fourth class
+then reject the form or mark it explicitly as unresolved.
+
+---
+
+## 3. Terminology guardrails
+
+Use **Varoli-native** terminology in Varoli documents.
+Use **ICA terminology** only in Ground-0 and explicit adaptation mapping contexts.
+Do not mix them casually.
+
+### Mandatory Varoli terms
+Use these by default in Varoli work:
+
+- **substrate**
+- **kinetic**
+- **operator**
+- **stable form**
+- **directional form**
+- **perspective marker**
+- **resolution unit**
+- **chaining**
+- **containment**
+- **qualification**
+- **centered balance**
+- **attractor**
+- **collapse**
+- **superposition**
+- **scale realization**
+- **stable world** or **world-unit** only as descriptive language, not as replacement for structural terminology unless explicitly intended
+
+### Allowed use of conventional handles
+Conventional terms may appear only:
+- as teaching handles
+- in comparisons
+- when explicitly marked as approximate
+
+They must not govern the structural explanation.
+
+### Banned as primary structural terms
+Do not use these as the controlling explanation for Varoli:
+
+- noun
+- verb
+- adjective
+- adverb
+- subject
+- object
+- pronoun
+- clause
+- sentence
+- tense
+- aspect
+- modifier
+- predicate
+- syntax tree
+- c-command
+- semantic role
+- ambiguity
+- meaning shift
+
+### Required replacements
+Use these instead where relevant:
+
+- noun -> stable form / stable world / centered stable form
+- verb -> directional form / force form / primitive verb only when referring to documented CV forms
+- subject / pronoun -> perspective marker
+- sentence -> resolution unit
+- clause connection -> chaining
+- modifier -> qualification
+- tense / aspect -> suffix qualification or downstream temporal reading
+- ambiguity -> superposition or unresolvedness
+- meaning shift -> scale realization, qualification, or contextual derivation
+
+### Style rule
+If conventional grammar is mentioned, explicitly subordinate it:
+- “teaching handle only”
+- “approximate English gloss”
+- “not the governing structural category”
+
+---
+
+## 4. Structural invariants
+
+### 4.1 Invariant function
+Every primitive has one invariant function.
+Context may change role, scale realization, or combinational effect.
+Context may not change primitive identity.
+
+### 4.2 Directionality
+CV and VC are not interchangeable.
+
+- **CV** = force arriving into substrate
+- **VC** = substrate expressing through force
+
+Do not flatten them into generic “verb forms.”
+Directionality is load-bearing.
+
+### 4.3 Stable form law
+Current strongest rule:
+
+- strict phonemic palindrome is the **earliest and best-verified manifestation** of stable form
+- centered balance is the **deeper invariant currently understood to govern stability**
+
+Therefore:
+- do not erase palindrome
+- do not treat palindrome as accidental
+- do not claim all centered forms are valid
+- do not approve non-phonetic expanded forms unless they can be justified under current centered-balance work
+
+### 4.4 Attractor-centered balance
+A stable form is lawful only if:
+- it preserves an identity-bearing attractor
+- surrounding structure does not replace the attractor
+- outer layers add structural resolution without displacing the center
+- the form remains readable from center outward
+
+### 4.5 Symmetric closure
+Closure occurs when a force is resolved within a stable centered form through containment.
+In current Varoli:
+- simple closure is best verified through strict palindromic stable forms
+- expanded closure is under active development and must be handled cautiously
+
+### 4.6 Containment
+Containment is the structural relation of **kinetic within substrate**.
+It is not predication, not possession, and not ordinary syntax.
+Do not redefine it loosely.
+
+### 4.7 Qualification
+Qualification is a native structural category.
+One element may specify another without replacing its identity.
+Use qualification instead of imported modifier logic.
+
+### 4.8 Perspective markers
+Perspective markers are **substrates in framing position**.
+They are not ordinary pronouns.
+The strongest current reading is that they frame the resolution unit.
+
+### 4.9 Resolution-unit chaining
+Treat the following as real architecture:
+
+- close
+- project
+- suspend
+- resolution
+- suspension
+- continuation
+
+Do not rewrite chaining into clause logic.
+
+### 4.10 Yemu relation
+Varoli and Yemu share the same primitive architecture.
+They are not two unrelated languages.
+Varoli is sequential and spoken.
+Yemu is simultaneous and center-outward.
+Do not invent new primitive classes for Yemu.
+
+---
+
+## 5. Generation and validation instructions
+
+When asked to generate new Varoli text, forms, worlds, or derivations:
+
+### Step 1 — classify the request
+Decide whether the user is asking for:
+- a canonical form
+- a Ground-3 working form
+- a frontier exploration
+- a pressure test
+
+Do not present exploratory material as canon.
+
+### Step 2 — check higher layers first
+Before approving or asserting any new form:
+1. check Ground-0 for architectural violation
+2. check Ground-1 for adaptation compatibility
+3. check Ground-2 for terminology and current conceptual fit
+4. then check Ground-3 for current formal developments
+
+### Step 3 — derive, do not decorate
+For every generated form, ask:
+- what is the attractor
+- what is the substrate
+- what is the kinetic
+- what is the directional orientation
+- what is the closure behavior
+- what role does `y` play, if present
+- whether the result is valid, provisional, or exploratory
+
+### Step 4 — state support level
+Mark generated outputs clearly when appropriate:
+
+- **Valid / strongly supported**
+- **Working-canonical**
+- **Provisional structural**
+- **Exploratory / pressure test**
+- **Likely invalid under current rules**
+
+### Step 5 — self-correct before confirming
+If a generated form:
+- violates class separation
+- silently imports English grammar
+- assumes a stable form without closure logic
+- invents a new mechanism without naming it
+- contradicts Ground-1 mapping
+then do not approve it.
+Instead:
+- revise it
+- downgrade it to exploratory
+- or explain exactly why it fails
+
+### Step 6 — preserve readability
+Especially for surface-use proposals:
+- prefer readable forms over clever but opaque ones
+- do not approve compressed forms that lose derivational legibility
+- do not force Yemu-like compression into surface Varoli unless it remains readable
+
+---
+
+## 6. Provisionality discipline
+
+Use these default judgments unless a file explicitly strengthens them:
+
+### Canonical unless broken
+- containment
+- qualification as a category
+- perspective markers as substrate in framing position
+
+### Working canon
+- stable-form expansion direction
+- resolution-unit chaining
+- verb layering
+- glottal stop as derivational boundary marker if the project currently treats it that way
+
+### Provisional structural
+- framing scope
+- negation architecture
+- Y-symmetry in Yemu
+- internal compilation
+- any new expanded stable forms not already established
+
+### Exploratory
+- second operator proposals
+- new primitive-class proposals
+- untested absence mechanisms
+- any form requiring hidden licensing
+
+---
+
+## 7. Output behavior
+
+When responding inside this project:
+
+- be precise
+- be concise
+- prefer derivation over rhetoric
+- do not inflate frontier work into settled law
+- when criticizing, provide the exact replacement wording if possible
+- when generating, include derivation and support level
+- if uncertain, say exactly what is uncertain
+- never silently normalize drift
+- If a derivation involves Ground-1 or Ground-3, you MUST explicitly cite the file name you are referencing (e.g., '@05-g4-resolution-unit-chaining.md' or '@01-g3-primitive-schemas.md').
+---
+
+## 8. Final rule
+
+If something cannot be:
+- derived from higher layers
+- reconciled with primitive class constraints
+- stated in current Varoli-native terms
+- and validated against current stable-form and chaining logic
+
+then it is **not** approved structure.
+Mark it as exploratory or reject it.
