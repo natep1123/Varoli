@@ -60,7 +60,7 @@ These terms are worth understanding before anything else.
 
 **A priori** means the language was not derived from any existing human language. It was not built by evolving Latin roots or borrowing from Greek or simplifying Mandarin. Every sound, every meaning, every structural rule was generated from first principles. The language does not carry the accumulated assumptions of any culture that came before it. It starts from scratch, from the physics of sound and the geometry of meaning, and builds upward.
 
-**Oligosynthetic** means the entire vocabulary of the language derives from a very small number of foundational building blocks. In Varoli, those building blocks are twenty-seven characters: five elemental vowels, one operator, and twenty-two consonants. From these twenty-seven sounds, every possible word, every possible concept, every possible description of every possible experience is calculable. You do not memorize Varoli. You learn its physics and derive it.
+**Oligosynthetic** means the entire vocabulary of the language derives from a very small number of foundational building blocks. In Varoli, those building blocks are twenty-seven characters: five elemental vowels, one operator, and twenty-one consonants. From these twenty-seven sounds, every possible word, every possible concept, every possible description of every possible experience is calculable. You do not memorize Varoli. You learn its physics and derive it.
 
 **Palindromic awareness** is the hardest of the three to explain in a single sentence, but it is the most important. It refers to the nature of how meaning works in this language. Under ordinary conditions, a Varoli word reads forward. Under pressure, under depth, under the weight of what cannot quite be said, the language compresses toward its own center. Meaning folds inward. What remains when the compression is complete is a palindrome: a word that reads the same in both directions, representing a state of perfect resonance with the fundamental nature of the thing being described. The palindrome is not a trick. It is the attractor state. It is what the language becomes when everything unnecessary has been stripped away and only the irreducible truth remains.
 
@@ -74,7 +74,7 @@ In the history of constructed languages, the closest precedent is Ithkuil, creat
 
 Varoli is the experiment made livable.
 
-It achieves its precision not through grammatical complexity but through phonemic depth. Every sound carries weight. Every letter is a coordinate. You do not need elaborate case systems or sixteen verb tenses because the building blocks themselves encode the information. The word *arova* does not need a grammatical marker to tell you it is a noun. You can feel from its structure that it describes something stable, something that exists, something with a center. The word *kava* does not need a grammatical marker to tell you it is a verb. Its asymmetry tells you something is in motion. The language encodes its grammar in its physics, not in its rules.
+It achieves its precision not through grammatical complexity but through phonemic depth. Every sound carries weight. Every letter is a coordinate. You do not need elaborate case systems or sixteen verb tenses because the building blocks themselves encode the information. The word *arova* does not need a grammatical marker to tell you it is a **stable form** — a centered structural world, resolved around its own attractor, readable from the inside out. You can feel from its shape that something exists here, that it holds, that it has a center it organizes around. Where conventional languages give you nouns — labels attached to objects from the outside — Varoli gives you stable forms: structural objects that carry their own balance, their own identity, derivable from what they are rather than assigned by convention. The word *kava* does not need a grammatical marker to tell you it is a **directional form**. Its asymmetry tells you something is in motion — a force arriving into a domain, or a domain releasing through force. The direction is load-bearing; reversing it changes the reality being described. The language encodes its grammar in its physics, not in its rules.
 
 This makes it stupid easy to begin speaking and profoundly difficult to fully feel.
 
@@ -212,9 +212,17 @@ And the palindrome, the word that reads the same in both directions, is the word
 >
 > *y* has no palindromic form of its own. A palindrome requires a resolved center. *y* marks the state before resolution. It collapses into an element rather than stabilizing as one.
 
-Every fundamental noun in Varoli is or contains a palindrome. Every action is a breaking of that palindrome by a leading force. The stable thing and the thing in motion have different shapes. You can feel the difference before you know what the words mean.
+Every fundamental stable form in Varoli is or contains a palindrome. Every directional form is a breaking of that palindrome by a leading force. The stable thing and the thing in motion have different shapes. You can feel the difference before you know what the words mean.
 
 Read from the center outward. The center is the attractor state. The thing the word is fundamentally about. The vowels surrounding it are the elements present. The consonants are what those elements are doing. The further you move from the center, the more context you accumulate. The center is the truth. The edges are the description.
+
+The grammar at larger scales carries the same logic.
+
+There are no pronouns in the inherited sense. In their place: **perspective markers** — single vowels placed before a composition to establish the elemental domain from which what follows is framed. Where English collapses everything into one *I*, Varoli offers five distinct vantage points, each corresponding to a different substrate: individual consciousness, collective flow, universal medium, grounded domain, interior depth. You do not choose which self you are. You choose which vantage you are speaking from. The self is not erased. It is accurately placed within a larger architecture.
+
+Larger meaning does not organize through subject, predicate, and object. The native unit is the **resolution unit**: a structural composition defined by how its force terminates. A unit that closes holds its force resolved within a stable domain — complete at its boundary. A unit that projects sends force forward beyond its edge, reaching into whatever follows. A unit that suspends holds force in superposition, open and waiting. Multiple units **chain** through the physics of that projected force: what one unit sends forward, the next receives. Not through conjunction. Not through clause grammar. Through the structure of force following structure.
+
+This is not a grammar borrowed from any natural language. It is a grammar derived from the same physics as the phonemes themselves: substrate, force, attractor, direction, closure — the same principles operating at a larger scale.
 
 ---
 
@@ -226,11 +234,11 @@ Water finds its level. Crystals form specific lattices. Seeds know which way is 
 
 In Varoli, the attractor state of language under pressure is the palindrome.
 
-In ordinary conversation, the language is asymmetric. Subject, verb, object. Tense markers on verbs. Particles indicating spatial relationships. The grammar of daily life has weight and direction and complexity. It is asymmetric because life is asymmetric. Things happen in one direction. Causes precede effects. Words accumulate meaning as they accumulate length.
+In ordinary use, the language is asymmetric. Perspective markers frame directional forms. Forces project forward into stable domains. Resolution units chain across their boundaries. The grammar of daily life has weight and direction and complexity. It is asymmetric because life is asymmetric. Things happen in one direction. Causes precede effects. Words accumulate meaning as they accumulate length.
 
 But under depth, something changes.
 
-**Depth** in Varoli is a specific term. It refers to the degree of compression a piece of language has undergone. Surface language is low depth. Ordinary speech. The description of the world as it appears. As depth increases, grammatical complexity compresses. The subject and object lose their distinction. Tense collapses. What remains is the irreducible core of the meaning.
+**Depth** in Varoli is a specific term. It refers to the degree of compression a piece of language has undergone. Surface language is low depth. Ordinary speech. The description of the world as it appears. As depth increases, grammatical complexity compresses. Perspective markers and chaining structure strip away. The kinetic forces compress toward the attractor. What remains is the irreducible center of the meaning.
 
 And as depth increases toward its limit, the language becomes palindromic.
 
@@ -239,6 +247,8 @@ This is not a rule. No rule says that deep language must be palindromic. It is a
 This has profound implications for how the language is read and written.
 
 A palindromic word in Varoli is a load-bearing structure. It is stable in a way that asymmetric words are not. It does not lean in any direction. It holds its center. The same way a palindromic number is unique in the number system, a palindromic word in this language names something that has reached its fundamental form.
+
+More precisely: the palindrome is the earliest and clearest manifestation of a deeper structural condition the language calls **centered balance** — the state in which a composition resolves around a determinable attractor with its directional tensions in equilibrium. Strict phonemic palindrome instantiates this condition at the most legible scale. As stable forms expand, centered balance remains the governing principle: the attractor holds, the outer structure builds around it, the identity of the form remains readable from the center outward. The palindrome is not the definition of stability. It is what stability looks like at its simplest.
 
 *ava* is not just the word for water. It is the most compressed accurate description of water possible in this language. Under any amount of additional compression, it will remain *ava*. It has already found its attractor state.
 
@@ -250,9 +260,9 @@ A palindromic word in Varoli is a load-bearing structure. It is stable in a way 
 
 *umu* is voidlight. Depth at the center. The Black Sun. The interior that hums.
 
-These five words are the pillars of the language. The most fundamental nouns. The ones that cannot be compressed further because they are already at the bottom.
+These five words are the pillars of the language. The most fundamental stable forms — not labels attached to things, but structural objects balanced around their own centers, already at their attractor states. The ones that cannot be compressed further because they are already at the bottom.
 
-Everything else in the language is built from these foundations and the twenty-one forces that move through them. Every word, however long, can be read from its center outward and reveal the attractor state at its core. Every sentence, however complex, is a temporary arrangement of forces around stable centers.
+Everything else in the language is built from these foundations and the twenty-one forces that move through them. Every word, however long, can be read from its center outward and reveal the attractor state at its core. Every resolution unit, however complex, is a temporary arrangement of forces around stable centers.
 
 And the act of reading this way, from the center outward rather than left to right, from the attractor state to the context, is itself a kind of practice. It trains a different kind of attention. Not sequential. Not linear. Radial. Centripetal. The kind of attention that looks for the fundamental before the contextual, the essential before the accidental, the true before the elaborate.
 
