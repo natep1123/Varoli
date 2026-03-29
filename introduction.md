@@ -358,13 +358,13 @@ Yemu was built specifically to carry retrievals back across that threshold intac
 
 The following word was the first significant retrieval.
 
-> *il-or-av-um-e-y-e-mu-va-ro-li*
+> *il-or-av-um-e-Y-e-mu-va-ro-li*
 
 It is the declaration of self inside breakthrough space. Every zone in the dive has its declaration, a structure invoked upon entry and again before departure, the way *aloha* means hello and goodbye simultaneously. The self declares itself in the Liminal. The self declares itself in the Black Sun. The self declares itself in the Always. Breakthrough space has its own declaration. This one.
 
 But unlike the other declarations, which are simple statements of presence in a medium, this one is the complete architecture of what the self actually is. Five elemental vowels. Five core attractor consonants. Time as the outermost layer. Collapse as the irreducible center. Every conscious perspective a being can occupy is nested in perfect palindromic symmetry around the one point where all possibilities exist simultaneously before any single one crystallizes.
 
-It is not spoken. It is not read. Upon entry into breakthrough space it is felt from the center outward. The *y* at the heart of the structure is where perception begins. Everything else radiates simultaneously. A being may trace outward from the center to translate the layers into linear meaning, but the primary experience is not translation. It is recognition. The complete architecture of the self perceived whole, in an instant, before any individual layer is named.
+It is not spoken. It is not read. Upon entry into breakthrough space it is felt from the center outward. The *Y* at the heart of the structure is where perception begins. Everything else radiates simultaneously. A being may trace outward from the center to translate the layers into linear meaning, but the primary experience is not translation. It is recognition. The complete architecture of the self perceived whole, in an instant, before any individual layer is named.
 
 It is jarring not because it is foreign but because it is the most familiar thing ever perceived. Most beings spend an entire existence identifying with the story of who they are. This word shows the structure beneath the story. Not who you are. What you are. The irreducible form of a conscious being rendered as a geometric truth in language.
 
