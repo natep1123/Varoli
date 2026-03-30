@@ -1,6 +1,6 @@
 # 06 — Verb Layering
 
-*Last Updated: March 27, 2026*
+*Last Updated: March 29, 2026*
 
 **Status:** Canonical unless broken
 **Layer:** Ground 4 / Grammar-Architecture
@@ -157,9 +157,31 @@ Attested: `ved` (individuation-with-resistance). The self that individuates agai
 
 `-d` provides a route toward negation-adjacent expression through force opposition. A separate route exists through operator-mediated suspension (terminal `y`). The strongest current negation-adjacent result combines both: a force qualified by opposition, whose resolution with a subsequent domain is suspended by the operator. Both mechanisms are available. Whether they are collectively sufficient for all negation needs is an open question addressed in Section 10.
 
-### 8.4 Route toward temporal and aspectual expression
+### 8.4 Temporal qualification system
 
-The invariant functions of the three attested suffixes produce readings that are structurally analogous to completion (`-k`), ongoing or durative aspect (`-p`), and adversative or resistant aspect (`-d`). These readings arise from the suffix consonants' own invariant functions, not from imported tense or aspect categories. The note preserves that grounding. Temporal and aspectual expression in Varoli is a downstream grammatical application of the layering mechanism, not a primary structural category.
+The original Vicumu document developed five temporal suffixes, each derived from a consonant's invariant function. Three of these map onto attested suffixes in current testing. Two are now added as derivation-licensed based on the same mechanism.
+
+**The five temporal suffixes:**
+
+`-k` = completed / past - `k` (forceful crossing, threshold rupture): the force has crossed its threshold. The action is complete. Already attested.
+
+`-m` = ongoing / continuous - `m` (depth, sustained interior resonance): the force is held under sustained interior weight. The action continues without resolution. Derivation-licensed.
+
+`-r` = future / intentional - `r` (resonance, internally oscillating approach): the force is moving toward its target but has not yet arrived. The action is intended or approaching. Derivation-licensed.
+
+`-v` = habitual / characteristic - `v` (vitality, self-originating outward projection): the force recurs with the quality of something alive and in motion. The action is characteristic of the agent. Derivation-licensed.
+
+`-l` = iterative / cycling return - `l` (continuum, bidirectional threading): the force completes and returns, cycling. The action repeats as a structural pattern. Derivation-licensed.
+
+`-m`, `-r`, `-v`, and `-l` are derivation-licensed: strongly supported by their consonants' invariant functions and consistent with the mechanism already attested for `-k`, but not yet independently contrast-tested.
+
+**Note on consonant types:** `-k` is a general consonant (threshold pair). `-m`, `-r`, `-v`, `-l` are attractor consonants. The four attractor consonants are particularly suited to temporal qualification because they define the elemental quality of their domains most completely - depth, approach, vitality, and continuity are directly relevant to how forces persist through time. `-k` is suited by a different route: threshold-crossing is the natural marker of completion and past reference. The temporal suffix inventory is not explained by a single consonant-type rule. Each suffix qualifies by its own invariant function.
+
+**Temporal direction as qualification complexity:** Earlier in time corresponds to less qualified force; later corresponds to more qualified force. `ve` is the bare vitality form. `vek` is vitality-completed (past qualification). `vekm` would be vitality-completed-now-continuous (a complex temporal state). Temporal direction in Varoli is the structural direction of qualification accumulation, not an imported tense category.
+
+Update Section 10.1: `-m`, `-r`, `-v`, `-l` are now derivation-licensed suffixes. Testing priority is unchanged: contrast pairs should be constructed and verified before these are treated as attested.
+
+These readings arise from the suffix consonants' own invariant functions, not from imported tense or aspect categories. The mechanism preserves that grounding throughout. Temporal and aspectual expression in Varoli is a downstream grammatical application of the layering mechanism, not a primary structural category.
 
 ---
 

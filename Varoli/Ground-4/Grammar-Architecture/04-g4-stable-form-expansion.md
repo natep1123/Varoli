@@ -1,6 +1,6 @@
 # 04 — Stable Form Expansion
 
-*Last Updated: March 27, 2026*
+*Last Updated: March 29, 2026*
 
 **Status:** Canonical unless broken
 **Layer:** Ground 4 / Grammar-Architecture
@@ -122,7 +122,37 @@ Center-outward reading extends to larger forms, but the formal reading procedure
 
 ---
 
-## 7. Propagation Targets
+## 7. The arOva rule
+
+`arOva` is the canonical example of a lawful expanded stable form. It is now the first formally confirmed expanded stable form and the reference case for all subsequent expanded stable form work.
+
+**The form:** `arOva` (island: water containing resonance-through-earth-containing vitality-water).
+
+**Derivation:** Earth (`o`) is at center. `r` (resonance, earth's attractor kinetic) flanks it on both sides. `v` (vitality, water's attractor kinetic) is the next layer. `a` (water) is the outer container. The centered balance: `a` outermost, `v` inner-kinetic of water layer, `r` inner-kinetic of earth layer, `O` center, repeating outward in mirror. The form is palindromic, readable from center outward: earth radiating through resonance into the vitality of water, surrounded by the relational medium.
+
+**The rule this case establishes:**
+
+A valid expanded stable form requires:
+1. An identity-bearing attractor at center
+2. Each successive layer wrapping the previous with a kinetic and substrate pair that does not displace the center
+3. The center remains the determinative identity of the form
+4. Each layer adds resolution of the center's meaning - how the center is qualified, where it is located, what medium surrounds it - without replacing the center's identity
+5. The outermost substrate must be readable as a containing or ambient domain for the form as a whole
+
+In `arOva`: `O` (earth) is the identity. `r` and the inner `o` form the first layer (earth's own attractor pair). `v` and `a` form the outer layer (vitality in the relational medium - the living water that surrounds the island). Each layer is derivable. The center is not displaced.
+
+**What this rule does not license:**
+
+- Arbitrary substrate wrapping without derivable containment logic
+- Wrapping that contradicts the center's identity
+- Expansions where the center attractor is ambiguous or replaced
+- Non-palindromic expansions that attempt to pass as stable forms
+
+The `arOva` rule is working canon. It is the first successful expansion of the centered-balance principle beyond strict phonemic palindromes. Its status marks the centered-balance understanding as the governing principle: palindrome is a consequence of centered balance at the primitive level, and centered balance scales to multi-layer structures when the expansion follows the derivation rules above.
+
+---
+
+## 8. Propagation Targets
 
 **Immediate:**
 - Add stable form expansion and centered balance to `../../Ground-2/00-g2-varoli-terminology.md` with the definition from Section 3 and the palindrome-to-centered-balance relationship.

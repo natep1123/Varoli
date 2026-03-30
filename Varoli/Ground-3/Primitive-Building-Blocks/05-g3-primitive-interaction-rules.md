@@ -1,6 +1,6 @@
 # 05 — Varoli G3 Primitive Interaction Rules
 
-*Last Updated: March 25, 2026*
+*Last Updated: March 28, 2026*
 
 **Status:** Working reference  
 **Layer:** Ground 3 / Primitive-Building-Blocks  

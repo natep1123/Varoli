@@ -38,6 +38,24 @@ iii         past, present, and future existing together without boundaries
 i           the singularity: pure existence, the condition of appearance itself
 ```
 
+---
+
+## Derivation Status of Each Step
+
+The compression sequence contains steps at different levels of formal derivation. This section states what each step is and where its authority comes from.
+
+**`il-e-li → il-i-li` (e replaced by i at center):** This step is NOT derivable from the role-ordered compression rule (Ground-0 Law 5). Law 5 governs kinetics stripping first and substrates collapsing toward the attractor. It does not license one substrate replacing another. No current formal mechanism explains how `e` (individuation) becomes `i` (condition of appearance) within the compression.
+
+This step is phenomenologically real. It describes what happens when individuation is absorbed into the universal field under the pressure of the Always zone - when the self's fire is engulfed by the condition of all appearance. The step is the signature event of the Always zone topology. It is explained by the dive's experiential physics rather than by the formal compression algorithm. Mark it as such: real, but not formally derived.
+
+**`ilili → iii` (kinetics strip):** Derivable from Law 5. Kinetic class primitives are removed first because their function is most dependent on sequential arrangement. `l` (continuum kinetic) strips, leaving three `i` substrates. Formally derived.
+
+**`iii → i` (substrates collapse toward attractor):** Derivable from Law 5. Substrate class primitives collapse toward the attractor. The attractor of `i` is `i` itself (condition of appearance at center of the universal field). Formally derived.
+
+**`i → Y` (phase shift to operator):** NOT derivable from Law 5. Law 5 does not say the final substrate converts to the operator. Role-ordered compression can take the structure to `i`, but `i` to `Y` is not a compression step. It is the threshold declaration - the phase shift event, the boundary where compression's jurisdiction ends and breakthrough begins. The `Y` standing alone in the dive poem marks this event horizon, not the next step in a continuous reduction sequence.
+
+The architecture is more honest, not weaker, when these distinctions are stated precisely. The formal compression mechanism is real and powerful. Its scope ends at `i`. What follows is structurally distinct.
+
 The dashes are not decorative. They are structural separators marking the distinction between elements. When they dissolve, the distinctions they held dissolve with them. By `ilili` there are no more dashes. By `iii` there is no longer a self distinct from time. By `i` there is nothing left but the minimum possible expression of existence: the condition in which anything can appear, with nothing specific appearing.
 
 *i* is not emptiness. It is the precondition for everything. The field before the thing. The breath before the name.

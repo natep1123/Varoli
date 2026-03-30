@@ -1,6 +1,6 @@
 # 00 — Varoli Ground 4 Overview
 
-*Last Updated: March 28, 2026*
+*Last Updated: March 29, 2026*
 
 **Status:** Working canon  
 **Layer:** Ground 4  
@@ -35,6 +35,17 @@ This includes:
 - other advanced developments derived from Ground 3
 
 Ground 4 is where the system begins to explain what the language does at larger scales.
+
+---
+
+## 2.5 Top-level files
+
+Ground 4 contains some files at the top level (not in a subfolder) that document the orientation, history, and intent of the layer:
+
+- `00-g4-overview.md` - this file; the purpose and structure of Ground 4
+- `01-g4-revived-original-intent.md` - the recovered original context, purposes, and cultural pressures that motivated the language; the source material for the five-perspective characterization, the cosmology of the domains, and the original name history (Vicumu/Varoli, Vycule/Yemu). Essential background for understanding why the language was built the way it was.
+
+These files should be read before working in any Ground 4 subfolder.
 
 ---
 
@@ -92,12 +103,13 @@ Ground 4 is the natural home of work such as:
 - qualification
 - framing scope
 - perspective markers
-- stable-form expansion
+- stable-form expansion (including the `arOva` rule)
 - resolution-unit chaining
-- verb layering
+- verb layering and temporal suffix system
 - negation-adjacent architecture
-- Yemu
-- self-crucible
+- reference architecture
+- Yemu (zone declarations, gate codes, structural families)
+- self-crucible (formal proof, decompression)
 - internal compilation
 - related higher-order developments
 
@@ -114,7 +126,15 @@ Ground 4 may be divided into subfolders such as:
 For named structural relations and higher-order compositional logic.
 
 ### `Yemu/`
-For simultaneous expression mode, self-crucible, and related compression / center-outward work.
+For simultaneous expression mode, self-crucible, and related compression / center-outward work. Currently contains:
+- `02-sequential-decompression.md` - decompression as working canon for the crucible case
+- `03-yemu-structural-families.md` - six center-type families and the substrate cycle
+- `04-gate-code-grammar.md` - formal gate code grammar and three topological pattern families
+- `self-crucible/` - naming, formal proof, and overview of the canonical proof object
+- `diving/` - domains, compression sequence, and the dive poem
+
+### `Exploring/`
+For active frontier investigations. Currently contains `g4-current-frontier-priorities.md`.
 
 Additional subfolders may be added later if needed, but Ground 4 should remain organized by higher-order structural role rather than by raw primitive inventory.
 

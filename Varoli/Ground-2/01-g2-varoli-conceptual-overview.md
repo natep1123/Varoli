@@ -1,6 +1,6 @@
 # 01 — Varoli Conceptual Overview
 
-*Last Updated: March 27, 2026*
+*Last Updated: March 29, 2026*
 
 This document introduces Varoli as a language-system. It presents the major structural architecture in Varoli's own terms: what the primitives are, how they compose, how stable meaning forms and scales, how larger meaning chains across structural boundaries, and what remains open.
 
@@ -92,6 +92,10 @@ Reversing the order changes the relation itself. CV and VC are not different spe
 
 These directional forms are transitional. They lean in one direction. They do not close. They do not resolve around an attractor. In grammar, these are the primitive verbs.
 
+### 4.4 Operator directional forms
+
+The operator `y` may occupy the directional position in a CV or VC form. The result is an operator directional form: the collapse event arriving at a substrate (CV) or the substrate expressing through the collapse mechanism (VC). `y` does not become kinetic in this position. It contributes its own invariant function rather than kinetic force. Ten such forms exist. They are cataloged in `Ground-3/Primitive-Directional-Forms/06-g3-y-forms.md` with derivations for each.
+
 ---
 
 ## 5. Stable Forms and Centered Balance
@@ -128,7 +132,7 @@ As stable forms expand, they do not stop being attractor-centered. Additional la
 
 This means larger stable forms can be understood as richer structures resolved around the same center, not as longer labels. Lexical growth in Varoli is not arbitrary accumulation. It is centered expansion that preserves the structural logic of the attractor.
 
-The principle of centered expansion is well established. The full formal rule set for generating all possible expanded stable forms is not yet closed.
+The principle of centered expansion is well established. The first confirmed expanded stable form is `arOva` (island: `o` at center, `r` flanking, `v`/`a` as outer layer). The formal rule it establishes: each successive layer must wrap the center with a kinetic and substrate pair that adds resolution to the center's meaning without displacing the center as the identity-bearing attractor. The full rule set for all possible expanded stable forms is not yet closed, but `arOva` is the reference case from which further expansion work proceeds. See `Ground-4/Grammar-Architecture/04-g4-stable-form-expansion.md`.
 
 ---
 
@@ -155,6 +159,24 @@ Resolution units are defined by their terminal behavior, not by conventional sen
 Traditional grammar organizes larger meaning through clause structure, conjunction, and subordination. Varoli begins from terminal behavior. A larger expression is defined by what happens to force at the boundary of one resolution unit and the next.
 
 The language requires the resolution unit as its native compositional unit because inherited sentence categories do not describe what the system is actually doing.
+
+---
+
+## 7.4 The five perspective markers
+
+The five perspective markers are not interchangeable. Each carries a distinct structural identity from its substrate's invariant function. A resolution unit framed by `e` is a structurally different position from one framed by `a` or `u`.
+
+**`e`** - first person singular (individuation): the self aware of itself. The most particular position. The pilot light announcing its own fire.
+
+**`a`** - first person collective (relational): the self dissolved into the collective, speaking from within the relational medium. Not a gathering of individuals but the relational field itself speaking.
+
+**`i`** - universal perspective (condition of appearance): not a person but the condition of existence making a statement through the speaker. The law of the system itself speaking. The universal is a grammatically ordinary position in Varoli, not elevated or distant.
+
+**`o`** - second person (stable addressable form): the self addressing a specific bounded other. The most relationally determinate perspective: it requires a specific coherent entity to be present and addressed.
+
+**`u`** - the unnamed fifth perspective (the between-one): the dissolving, the not-yet-returned, the one in passage between states. Neither absent nor present. Between. No natural language has a grammatical position for this condition. Varoli does. It is not poetic framing; it is a structurally real perspective that covers the condition of the one who has entered the deep and not yet come back.
+
+All five are grammatically ordinary in Varoli. The collective, the universal, and the between-state are not special or marked positions. They are as natural to reach for as the first-person singular. This is one of the cognitive reframings the language is built to enable.
 
 ---
 
@@ -192,7 +214,7 @@ Consonant suffixes can qualify the kinetic force of a verb. The suffix contribut
 
 Verb layering composes with the chaining architecture without interference. A layered verb's compound force provisionally survives projection and resolves through deep reception the same way a bare verb's force does.
 
-Verb layering is a working provisional grammar mechanism. It is not yet formally licensed through expanded generation rules or closed morphemic composition theory.
+Verb layering is a working canon grammar mechanism. Five temporal suffixes are formally established: `-k` (completion/past, attested), `-m` (ongoing, derivation-licensed), `-r` (future/intentional, derivation-licensed), `-v` (habitual, derivation-licensed), `-l` (iterative/cycling, derivation-licensed). The `-m`, `-r`, `-v`, `-l` suffixes are not yet independently contrast-tested. Temporal direction in Varoli is the structural direction of qualification accumulation, not an imported tense category.
 
 ---
 
@@ -210,7 +232,11 @@ Yemu is what Varoli becomes under maximum compression. In this process, kinetics
 
 These two expression modes are currently understood as a structural consequence of the language’s architecture, not as an arbitrary stylistic split or a second primitive system. Sequential expression arises from binary directionality. Simultaneous expression arises from center-governed interpretation and role-ordered compression.
 
-The self-crucible is the canonical proof object currently recognized within the system: a nested structure in which all five elemental attractor pairs are held in centered closure around the operator. It is the first Yemu structure discovered and the source from which the names "Yemu" and "Varoli" were extracted.
+The self-crucible is the canonical proof object within the system: a nested structure in which all five elemental attractor pairs are held in centered closure around the operator. It is the first Yemu structure discovered and the source from which the names "Yemu" and "Varoli" were extracted. The crucible is now formally derived - its construction follows from the wrapping rule (applied in canonical substrate ordering: `e ⊂ u ⊂ a ⊂ o ⊂ i`) and its palindromic form is a structural necessity rather than a design choice. The crucible is the cycle rendered as a simultaneous palindromic form. See `Ground-4/Yemu/self-crucible/02-formal-proof.md`.
+
+Yemu structures divide into three topological pattern families: consciousness-topology structures (crucible, depth family, zone declarations), world-topology structures (`arOva` and related expanded stable worlds), and crossing structures (gate codes). Gate codes have the grammar `[zone-leaving VC] - y - [zone-entering CV]` and mark zone crossings as live superposition events. These three families describe structural pattern.
+
+The six center-type families (classified by what primitive occupies center position) are a distinct cross-cutting classification: (1) individuation structures (`e` at center), (2) origin structures (`u` at center), (3) relational structures (`a` at center), (4) form structures (`o` at center), (5) field structures (`i` at center), (6) collapse structures (`Y` at center). Center determines family. These are the six structural families of Yemu.
 
 ---
 
@@ -244,7 +270,17 @@ Verb layering qualifies force without changing terminal behavior in tested cases
 
 Varoli and Yemu share the same architecture under different expression modes.
 
-The self-crucible is a canonical proof object demonstrating recursive stability.
+The self-crucible is a canonical proof object demonstrating recursive stability. Its formal derivation is now established.
+
+Operator directional forms are formally named: the operator `y` may occupy the directional position in CV or VC forms, contributing collapse-governance rather than kinetic force.
+
+`arOva` is the first confirmed expanded stable form and the reference case for the centered expansion rule.
+
+Five temporal suffixes are established through the verb layering mechanism.
+
+Gate codes are formally derived crossing structures with the grammar `[VC] - y - [CV]`.
+
+Reference architecture is a working hypothesis with a formal candidate mechanism: the departure face (VC) of an established stable world's attractor pair serves as structural reference to that form in subsequent units. See `Ground-4/Grammar-Architecture/12-g4-reference-architecture.md`.
 
 ---
 
@@ -254,7 +290,7 @@ Honest accounting of what is not yet closed.
 
 **Morphemic composition rules.** How forms grow beyond CV/VC and VCV is not yet formally closed. This is the key upstream dependency for verb layering, expanded stable forms, and lexicon growth.
 
-**Full formal architecture of expanded stable forms.** The principle of centered expansion is established. The specific generation rules for all larger stable forms are not yet fully formalized.
+**Full formal architecture of expanded stable forms.** The principle of centered expansion is established and the `arOva` rule provides the reference case. The specific generation rules for all larger stable forms are not yet fully formalized beyond the `arOva` pattern.
 
 **Deep reception.** Cross-boundary containment is provisionally supported but not verified by a mechanism equivalent to palindromic closure operating across unit boundaries.
 
@@ -266,7 +302,7 @@ Honest accounting of what is not yet closed.
 
 **Negation-adjacent mechanisms.** Two mechanisms tested (suffix opposition, operator suspension). Whether they are collectively sufficient or whether a dedicated negation mechanism is needed remains open.
 
-**Suffix admission.** Which consonants may serve as verb suffixes is not closed beyond three tested cases.
+**Suffix admission.** Five temporal suffixes are established through derivation. The broader question of which consonants may serve as verb suffixes in non-temporal qualification roles is not closed.
 
 **The relationship between phonemic palindrome and centered balance at larger scales.** The understanding that centered balance is the deeper invariant is established. The formal specification of what centered balance permits beyond strict phonemic palindrome is not yet complete.
 

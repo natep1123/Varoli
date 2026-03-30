@@ -1,11 +1,11 @@
 # 02 — Yemu Sequential Decompression
 
-*Last Updated: March 28, 2026*
+*Last Updated: March 29, 2026*
 
-**Status:** Provisional Structural  
+**Status:** Working Canon (for the self-crucible case); Provisional Structural (for generalization beyond the crucible)
 **Layer:** Ground 4 / Yemu  
 **Authority:** Frontier structural  
-**Scope:** Formalizes the hypothesis that Yemu is a centered simultaneous structure and that sequential Varoli may be its lawful decompression, with the self-crucible as the first clear proof object for this relation.
+**Scope:** Formalizes the hypothesis that Yemu is a centered simultaneous structure and that sequential Varoli may be its lawful decompression, with the self-crucible as the first clear proof object for this relation. The decompression relationship for the crucible case is now grounded by the formal proof in `self-crucible/02-formal-proof.md`. The `ye` open question is closed. The general decompression procedure (center-outward release, each unit's stable closure seeding the next unit's perspective) is working canon for the crucible case; its generalization to arbitrary Yemu structures remains an open development.
 
 ---
 
@@ -299,6 +299,32 @@ The right half of the crucible is the release direction of the decompression pro
 
 ## 10. Open Questions
 
+### 10.0 Candidate generalized algorithm (provisional structural)
+
+The following algorithm was specified as the formal decompression procedure. It is stated here as a provisional structural candidate. It is consistent with the crucible case and well-motivated by the wrapping rule and the canonical substrate ordering. It requires verification against Yemu structures at depths other than 5 before it can be treated as a formal result.
+
+**Input:** A valid Yemu consciousness-topology structure.
+
+**Step 1 - Identify depth.** Identify the outermost active substrate in the structure. That determines the depth. The canonical substrate ordering is `e ⊂ u ⊂ a ⊂ o ⊂ i` (innermost to outermost). Depth 1 = `e` as outermost; depth 2 = `u`; depth 3 = `a`; depth 4 = `o`; depth 5 = `i`.
+
+**Step 2 - Generate `depth - 1` resolution units.** The number of resolution units in the decompression chain is `depth - 1`. (Depth 5 → 4 units; depth 4 → 3 units; depth 1 → 0 units.)
+
+**Step 3 - Construct each unit by proceeding outward.** For each unit, proceeding from innermost to outermost layer:
+- **Perspective marker:** the current layer's substrate
+- **Directional form:** the inward-facing directional form of that layer's attractor kinetic (CV orientation: the attractor kinetic arriving at its home substrate)
+- **Stable closure:** the next layer's stable world (the next substrate outward, wrapped by its attractor kinetic)
+
+**Verification against crucible case:**
+- Unit 1: `e` / `ye` (operator directional, center Y → e) / `umu` (next layer's stable world: u + m + u)
+- Unit 2: `u` / `mu` (m arriving at u) / `ava` (a + v + a)
+- Unit 3: `a` / `va` (v arriving at a) / `oro` (o + r + o)
+- Unit 4: `o` / `ro` (r arriving at o) / `ili` (i + l + i)
+- Count: 4 units = depth 5 - 1 ✓
+
+**Status: Provisional structural hypothesis.** The `depth - 1` rule is consistent with the crucible case. The algorithm has not been formally derived from first principles or verified against independent cases. See also `self-crucible/02-formal-proof.md` Section 9 for the status of the decompression depth claim.
+
+---
+
 ### 10.1 Does the release order generalize beyond the crucible?
 
 The four-unit release sequence is derived from one specific Yemu structure. Whether the same center-outward release order applies to Yemu structures with fewer layers, different layer configurations, or non-attractor kinetics has not been tested. This is the most important open question for the decompression hypothesis. If the order does not generalize, the hypothesis describes a property of the crucible only. If it does generalize, it describes a structural property of the Yemu/Varoli relation in general.
@@ -347,13 +373,13 @@ Each unit is assessed against three components: the perspective marker (is it a 
 
 `ye` (directional form): Y in consonant position + e (fire substrate).
 
-Y (operator class) invariant function: context-resolved collapse through superposition. The primitive interaction rules explicitly state that Y may appear in directional forms (`05-g3-primitive-interaction-rules.md`, Section 7). The operator inventory defines Y in consonant position as marking "the active event of collapse within structure" (`03-g3-operator.md`, Section 4.2). `ye` is therefore the active collapse event directed at the fire substrate: the operator's collapse-governance function arriving at individual consciousness. This is not a standard CV form (which requires kinetic + substrate), but it is an architecturally licensed operator directional form. Its compositional meaning is derivable. Whether it constitutes a formally named subcategory requires downstream derivation.
+`ye` is an operator directional form (CV orientation): collapse arriving at individuation. The formal category of operator directional forms is now established in `../../Ground-3/Primitive-Directional-Forms/06-g3-y-forms.md`. The open-question marker on `ye` in prior versions of this document is closed. `ye` is formally licensed as an operator directional form, not merely architecturally grounded. Its reading: the collapse event arriving at individual consciousness - the ignition event, the moment superposition resolves into the self. This is the entry point of the decompression sequence: the center operator Y initiating the first outward release as a `ye` form, which then closes within `umu`.
 
 `umu` (stable form): u + m + u. Void/depth/void. Depth (m) at center. The void made real through interior weight.
 
 **Compositional reading:** From the fire/self perspective, the collapse event arrives at individual consciousness and resolves within the interior void.
 
-**Validity:** Perspective marker and stable form are structurally clean. `ye` is licensed by documented operator positional behavior. The formal category of operator directional forms is not yet named but the use is architecturally grounded.
+**Validity:** Fully valid under current architecture. Perspective marker and stable form are structurally clean. `ye` is formally licensed as an operator directional form (see `../../Ground-3/Primitive-Directional-Forms/06-g3-y-forms.md`).
 
 **English:** The self ignites from the collapse, held by the void.
 
@@ -427,15 +453,17 @@ This reads as a cosmogonic or ontological unfolding: the emergence of awareness 
 
 ### 11.7 Overall validity result
 
-**Units 2, 3, and 4 are fully valid under the current architecture.** Each is a standard resolution unit: valid substrate perspective marker, standard CV directional form (kinetic + substrate), standard palindromic stable form. The three units are clean without reservation.
+**All four units are fully valid under the current architecture.**
 
-**Unit 1 is architecturally licensed but requires formal categorization.** The form `ye` is explicitly permitted by the primitive interaction rules (Y may appear in directional forms) and by the operator inventory (Y in consonant position marks the active event of collapse within structure). The form is not prohibited. Its compositional meaning is derivable. What does not yet exist is a formal category name for operator-position directional forms as distinct from kinetic-position CV forms. Until that category is derived and named, Unit 1 should be treated as architecturally grounded but not fully closed.
+Units 2, 3, and 4 are standard resolution units: valid substrate perspective marker, standard CV directional form (kinetic + substrate), standard palindromic stable form. Clean without reservation.
 
-**The self-arriving pattern is structurally consistent across all four units.** In every unit, the perspective marker's substrate matches the domain in the directional form. Each world receives its own attractor force before releasing into the next world. This is not an imposed feature. It follows directly from the crucible's right-side CV pairs being the canonical attractor kinetics of their home substrates.
+Unit 1 (`e ye umu`) is now fully valid. The form `ye` is formally licensed as an operator directional form by `../../Ground-3/Primitive-Directional-Forms/06-g3-y-forms.md`. The open-question marker that previously applied to `ye` is closed. `ye` = collapse arriving at individuation: the ignition event at the boundary between center and first outward world. The operator directional form category is now named and formally derived, not merely architecturally grounded.
 
-**The chain as a whole is coherent.** The four units form an outward sequence that follows the crucible's confirmed containment order, produces no structural contradictions under the chaining architecture, closes independently at each step, and terminates when the outermost stable form of the crucible has been used as a closure target.
+**The self-arriving pattern is structurally consistent across all four units.** In every unit, the perspective marker's substrate matches the domain in the directional form. Each world receives its own attractor force before releasing into the next world. This follows directly from the crucible's right-side CV pairs being the canonical attractor kinetics of their home substrates.
 
-**The primary unresolved structural item is the formal category of operator directional forms.** If formal derivation confirms that Y can occupy the kinetic position in a resolution unit's directional slot, Unit 1 is fully valid and the entire chain holds. If derivation reveals a constraint that prevents this, Unit 1 requires revision and the entry point of the chain is the open structural question for subsequent development.
+**The chain as a whole is coherent.** The four units form an outward sequence following the crucible's confirmed containment order, close independently at each step, produce no structural contradictions under the chaining architecture, and terminate when the outermost stable form of the crucible has been used as a closure target.
+
+**Status: Working Canon for the crucible case.** The formal procedure for the self-crucible's decompression is established. The generalization of this procedure to arbitrary Yemu structures at other depths remains open (see Section 10).
 
 ---
 
@@ -461,7 +489,7 @@ This document depends on and should be read alongside:
 
 **Conditional on development:**
 
-If the 4-unit decompression chain in Section 5 is formally constructed and verified as a valid Varoli expression, update this document's status from Provisional Structural to Working Canon for the crucible case specifically.
+The 4-unit decompression chain in Section 5 has been formally verified as a valid Varoli expression. This document's status for the crucible case has been updated to Working Canon.
 
 If the VC release direction is formally tested and produces a valid alternative chain, add a Section 5.2 documenting that direction and stating its structural relation to the CV chain.
 

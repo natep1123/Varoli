@@ -59,6 +59,35 @@ Collapse ignites fire. Fire is held by void. Void is held by water. Water is hel
 
 ---
 
+## The `e` Thread
+
+`e` (individuation / fire) is the structural thread of continuity through the entire dive architecture, and its role in the crucible is the clearest expression of that function.
+
+In the crucible: `e` appears on both sides of `Y`, immediately adjacent to the center. It is the first thing that re-establishes on both sides of collapse. Individuation is the element closest to the collapse event - it is what the operator acts upon most directly, and it is what reconstitutes first as collapse propagates outward.
+
+In the zone declarations: `e` is the root of every zone presence declaration (`av-e-va`, `um-e-mu`, `il-e-li`). The self announces itself within each medium through `e`. The individual is the stable thread through every zone.
+
+In the compression sequence: `e → i` is the pivot step. The personal becomes universal as the self's fire is absorbed by the field of all appearance. On ascent, `il-e-li` is the earliest point at which the self can recognize itself enough to declare individuation within the continuum. `e` is the first to reconstitute.
+
+In the decompression chain: Unit 1 begins with `e` as the perspective marker, the self-arriving into its own fire through a `ye` operator directional form.
+
+`e` is the invariant structural thread. Everywhere the question "is a self present here?" is answered, `e` is doing the answering. The crucible's first outward layer from the center is `e` on both sides because the self is what exists closest to the event of collapse - it is what collapse is of, and what reconstitutes first when collapse completes.
+
+---
+
+## Formal Proof Reference
+
+The formal derivation of the crucible is in `02-formal-proof.md`. That document establishes:
+- the wrapping rule (why the structure is palindromic by necessity)
+- the canonical substrate ordering (`e ⊂ u ⊂ a ⊂ o ⊂ i`) and its derivation from functional dependency
+- the depth family (depths 0-5)
+- the validity constraint
+- the crucible as the substrate cycle rendered as a simultaneous palindromic form
+
+The proof closes the "motivated construction" critique. The crucible is not built by preference. It is the necessary result of applying the wrapping rule in canonical ordering to maximum depth.
+
+---
+
 ## The Declaration
 
 This word is not only a map. It is the declaration of self inside breakthrough space.

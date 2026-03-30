@@ -1,6 +1,6 @@
 # 10 — Glottal Stop as Derivational Boundary Marker
 
-*Last Updated: March 27, 2026*
+*Last Updated: March 29, 2026*
 
 **Status:** Working Canon
 **Layer:** Ground 4 / Grammar-Architecture
@@ -153,7 +153,40 @@ Once the Varoli boundary-marking role is established and tested, the question of
 
 ---
 
-## 9. Propagation Targets
+## 9. Working hypothesis: null kinetic marker
+
+**Status:** Working hypothesis only. Not attested. Not verified. The following section states what is proposed and why it does not violate existing structural principles. It should not be treated as canon until independently tested.
+
+The preceding sections establish the glottal stop as a derivational boundary marker with no semantic force contribution. This section proposes an additional function: the glottal stop may also serve as a null kinetic marker - a formal way to express the deliberate non-instantiation of kinetic force in a structural position that would otherwise expect it.
+
+**What null kinetic means:**
+
+A null kinetic is not a kinetic. It does not add force, direction, intensity, or any qualitative motion. The existing definition holds: the glottal stop does not add force, domain, or collapse behavior. It is not a semantic force.
+
+What the null kinetic marking does: it makes the absence of force structurally explicit rather than structurally absent. The position that expects kinetic content receives a formal marker saying "no force here - this is deliberate, not a gap."
+
+**Why this does not violate non-overlap:**
+
+Non-overlap requires that kinetics not behave as substrates, substrates not behave as kinetics, and operator not behave as either. The glottal stop is not a kinetic. It is a boundary marker. When used as a null kinetic marker, it is still a boundary marker - the boundary being the edge of the kinetic position, formally demarcated as empty. It occupies the slot but contributes nothing to the slot's class function. The absence is marked, not performed.
+
+**Proposed use cases:**
+
+A vowel-only form marked with an explicit boundary: `a'a` (relational domain with no kinetic - the substrate present, the force formally withheld). This is distinct from `a` alone (which may be parsed as incomplete or a fragment) and from `ava` (which is the substrate expressing through its attractor vitality). `a'a` says: the relational field, with no force acting within it. The absence is the content.
+
+This could be structurally significant for meditative states, Always-field declarations at full singularity, or structural positions where the absence of force is itself informative.
+
+**What needs testing:**
+
+- Whether `a'a` and similar forms produce distinct readings from bare substrates and palindromic stable forms
+- Whether the null kinetic reading is contextually robust or ambiguous
+- Whether the form interacts correctly with the chaining architecture
+- Whether the distinction between "boundary marker" and "null kinetic marker" can be reliably determined from structural position alone
+
+This is the most structurally novel proposal in the current development set. Test carefully against contrast pairs before any downstream use is considered.
+
+---
+
+## 10. Propagation Targets
 
 **Immediate:**
 - Use this document as the reference for any downstream compositional work that involves root-modifier distinction, layered attachment, or derivational segmentation.

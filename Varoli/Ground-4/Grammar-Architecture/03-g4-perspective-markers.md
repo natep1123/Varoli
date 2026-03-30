@@ -1,6 +1,6 @@
 # 03 — Perspective Markers
 
-*Last Updated: March 27, 2026*
+*Last Updated: March 29, 2026*
 
 **Status:** Canonical unless broken
 **Layer:** Ground 4 / Grammar-Architecture
@@ -109,7 +109,27 @@ The working term is perspective markers. A stronger native category name may eve
 
 ---
 
-## 8. Propagation Targets
+## 8. Full characterization of the five perspective markers
+
+The five perspective markers are not merely five instances of "a substrate in framing position." Each carries a distinct structural identity derived from its substrate's invariant function. The original intent document recovered the full characterization that the architecture requires.
+
+**`e` - first person singular** (ego, I): the self aware of itself, the most particular position. The framing substrate of individuation. The pilot light announcing its own fire. The self that notices itself.
+
+**`a` - first person collective** (nos, we): the self dissolved into the collective flow, speaking from within the relational medium. Not a gathering of individuals but the relational field itself speaking. The perspective of Tidal Affinity.
+
+**`i` - universal perspective** (omnia, all things): not a person but the condition of existence making a statement through the speaker. The perspective that belongs to nothing in particular and therefore to everything. The law of Recurra itself speaking. The universal is not elevated or distant in Varoli - it is a grammatically ordinary position.
+
+**`o` - second person** (tu, you): the self addressing a specific bounded other. The most relationally determinate perspective: it requires a specific coherent entity to be addressed. The recognition that a specific other exists as bounded, real, and particular.
+
+**`u` - the unnamed fifth perspective** (the between-one): the dissolving, the not-yet-returned, the one in passage between states. Neither absent nor present. Between. This is not poetic framing. It is a structural claim about the grammatical space the language covers: the condition of the one who has entered the deep and not yet returned is a real grammatical position that no natural language provides.
+
+These five are all grammatically ordinary in Varoli. The collective, the universal, and the between-state are not elevated or marked positions. They are as natural to reach for as the first-person singular. This is one of the cognitive defaults the language is designed to change: that `e` is the unquestioned center of all utterance. `a`, `i`, `o`, and `u` are equally valid starting positions.
+
+The `u` perspective deserves explicit emphasis: no other language has a grammatical position for the one currently in passage between states. This is not an omission corrected by Varoli's design. It is an original structural need of the legendarium - the one who has entered the deep and not yet returned exists in a grammatically real condition - and Varoli provides the structural position for it.
+
+---
+
+## 9. Propagation Targets
 
 **Immediate:**
 - Add perspective markers to `../../Ground-2/00-g2-varoli-terminology.md` with the locked formulation from Section 3.

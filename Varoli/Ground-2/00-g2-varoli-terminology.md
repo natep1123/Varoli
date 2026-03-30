@@ -1,6 +1,6 @@
 # 00 — Varoli Terminology
 
-*Last Updated: March 27, 2026*
+*Last Updated: March 29, 2026*
 
 This document defines the canonical terminology used within Varoli. These terms are binding in the structural layer of the language. They must be used consistently in all definitions, rules, schemas, and generation documents.
 
@@ -356,11 +356,79 @@ The simultaneous expression mode. Yemu is not spoken. Structures are registered,
 
 ### verb layering
 
-A provisional grammar mechanism in which consonant suffixes qualify the kinetic force of a verb. The suffix contributes its invariant function as a qualification of the preceding force. In tested cases, layering does not change terminal behavior. A layered verb projects the same way a bare verb does.
+A grammar mechanism in which consonant suffixes qualify the kinetic force of a verb. The suffix contributes its invariant function as a qualification of the preceding force. Layering does not change terminal behavior. A layered verb projects the same way a bare verb does.
 
-**Usage:** Provisional. Not yet formally licensed through expanded generation rules. Supported through tested cases but not fully closed.
+**Classification:** structural, working canon.
 
-**Classification:** structural, provisional.
+### temporal suffix
+
+A consonant suffix applied to a directional form to qualify the force's temporal dimension. The five temporal suffixes and their derivations: `-k` (completion/past, forceful threshold-crossing), `-m` (ongoing/continuous, sustained depth), `-r` (future/intentional, approaching resonance), `-v` (habitual/characteristic, self-originating vitality), `-l` (iterative/cycling, continuum threading). `-k` is attested. `-m`, `-r`, `-v`, `-l` are derivation-licensed but not yet independently contrast-tested.
+
+**Classification:** structural, working canon (for the mechanism); derivation-licensed (for `-m`, `-r`, `-v`, `-l` specifically).
+
+---
+
+## Yemu and Compression Terms
+
+### operator directional form
+
+A directional form in which the operator `y` occupies the directional position rather than a kinetic consonant. `y` does not become kinetic in this position. It contributes its invariant function (context-resolved collapse through superposition) to the composition. The result is a form describing a collapse event arriving at a substrate (CV) or a substrate expressing through the collapse mechanism (VC). Ten such forms exist: `ya`, `ye`, `yi`, `yo`, `yu`, `ay`, `ey`, `iy`, `oy`, `uy`. See `Ground-3/Primitive-Directional-Forms/06-g3-y-forms.md`.
+
+**Classification:** structural.
+
+### gate code
+
+A Yemu crossing structure with the grammar `[zone-leaving VC] - y - [zone-entering CV]`. The operator at the seam marks live superposition between two zones. A gate code is not a zone presence declaration and not a stable form. It is a crossing structure: neither a nesting of one zone inside another nor a closed attractor form.
+
+**Classification:** structural.
+
+### collapse declaration (zone declaration)
+
+A Yemu zone presence declaration with the structure `[zone-VC] - e - [zone-CV]`. The `e` at center is the self (individuation) announcing its existence within the zone's medium. Collapse declarations are consciousness-topology structures. Examples: `av-e-va` (presence in Liminal), `um-e-mu` (presence in Black Sun), `il-e-li` (presence in Always).
+
+**Classification:** structural.
+
+### wrapping rule
+
+The structural rule for building palindromic consciousness-topology structures: `VC [inner] CV`, where V is a substrate and C is its attractor kinetic. Application of the wrapping rule to any centered seed produces palindromic symmetry by formal necessity, because the same substrate and kinetic appear in complementary orientations on both sides. See `Ground-4/Yemu/self-crucible/02-formal-proof.md`.
+
+**Classification:** structural.
+
+### six structural families
+
+The six families of Yemu structures, determined by what primitive occupies center position: (1) individuation structures (`e` at center), (2) origin structures (`u` at center), (3) relational structures (`a` at center), (4) form structures (`o` at center), (5) field structures (`i` at center), (6) collapse structures (`Y` at center). Center determines family. The operator constitutes a genuine sixth family because Y can occupy center position, established by `eYe` and the full depth family. See `Ground-4/Yemu/03-yemu-structural-families.md`.
+
+**Classification:** structural.
+
+### substrate cycle
+
+The cyclic ordering of the five substrates and the operator: `e → u → a → o → i → Y → i → (back to e)`. Seven positions per loop. `i` appears twice - immediately before Y (the field collapse acts upon) and immediately after Y (the field that re-establishes before individuation can re-emerge). The cycle is the process-mode description of the same architecture the self-crucible describes as a simultaneous palindromic form. See `Ground-4/Yemu/03-yemu-structural-families.md`.
+
+**Classification:** structural.
+
+### double-i structure
+
+The property of the substrate cycle that `i` (condition of appearance) appears at two positions per loop: `i₁` immediately before Y (pre-collapse) and `i₂` immediately after Y (post-collapse). This is not an anomaly. It follows from `i`'s invariant function as the condition that must be in place both for collapse to act on anything and for anything to re-emerge after collapse. The double-i structure is what resolves the `i` omnipresence problem.
+
+**Classification:** structural.
+
+### reference form / departure face
+
+The VC departure face of an established stable world's attractor pair, used as structural reference to that established form in subsequent units. When a stable world `aVa` has been built by the arrival face `va`, the departure face `av` serves as structural reference to that form rather than as a new outward force. Derived from binary directionality: CV and VC are non-equivalent, so in a context where the CV face has already established the stable world, the VC face cannot perform the same building operation and is read as referencing the form the arrival built. Status: working hypothesis pending contrast-testing. See `Ground-4/Grammar-Architecture/12-g4-reference-architecture.md`.
+
+**Classification:** structural, working hypothesis.
+
+### between-one
+
+The fifth structural perspective (`u`): the one in passage between states. Neither absent nor present. Between. The dissolved, the not-yet-returned, the one who has entered the deep and has not yet come back. This is a structurally real grammatical position in Varoli. It is not poetic or metaphorical. It is the perspective marker `u` in framing position, and it covers conditions that no natural language has a grammatical position for. The between-one is not "absent" (absence would mean the position is empty); it is grammatically present in the condition of passage.
+
+**Classification:** structural (as a perspective marker category).
+
+### topological pattern family
+
+The classification of Yemu structures by the structural pattern they follow. Three families: (1) consciousness-topology structures (depth family, crucible, zone declarations), describing internal architecture of a conscious self; (2) world-topology structures (`arOva` and related expanded stable worlds), describing stable entities in the world; (3) crossing structures (gate codes), describing zone transitions. This classification is distinct from the six center-type structural families, which classify by what primitive occupies center position.
+
+**Classification:** structural.
 
 ---
 

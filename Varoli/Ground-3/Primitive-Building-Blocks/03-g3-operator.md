@@ -1,6 +1,6 @@
 # 03 — Varoli G3 Operator
 
-*Last Updated: March 28, 2026*
+*Last Updated: March 29, 2026*
 
 **Status:** Working reference  
 **Layer:** Ground 3 / Primitive-Building-Blocks  
@@ -81,16 +81,28 @@ Collapse is context-driven, not freely chosen.
 
 ---
 
-## 6. Current strongest uses
+## 6. Operator directional forms
+
+`y` may appear in the directional position of a CV or VC form. When it does, the result is an **operator directional form**: a directional form in which `y` contributes its invariant function (context-resolved collapse through superposition) rather than kinetic force.
+
+This is not a class violation. `y` does not become kinetic in this position. It contributes collapse-governance to the composition. The structural outcome is a form describing a resolution event arriving at a substrate (CV) or a substrate expressing through the collapse mechanism (VC).
+
+The 10 operator directional forms and their derivations are cataloged in `../Primitive-Directional-Forms/06-g3-y-forms.md`.
+
+---
+
+## 7. Current strongest uses
 
 - elemental collapse-centered form: `eYe`
+- operator directional forms: `ya`, `ye`, `yi`, `yo`, `yu`, `ay`, `ey`, `iy`, `oy`, `uy`
 - terminal suspension in chaining
+- gate code seam (`av-y-mu`, `um-y-li`, etc.) - live superposition at zone crossing
 - Yemu compression and center-outward structure
 - operator-mediated unresolvedness in derived contexts
 
 ---
 
-## 7. Current cautions
+## 8. Current cautions
 
 Do not treat `y` as:
 - generic ambiguity
@@ -103,7 +115,7 @@ Do not treat `y` as:
 
 ---
 
-## 8. Reminder
+## 9. Reminder
 
 If a reading requires `y` to behave like:
 - a domain

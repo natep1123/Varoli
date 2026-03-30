@@ -12,7 +12,7 @@
 ## 1. Substrate anchor
 
 `a` = relational resonance  
-The medium through which distinct things affect, connect, and dissolve into one another. :contentReference[oaicite:3]{index=3}
+The medium through which distinct things affect, connect, and dissolve into one another.
 
 ---
 
@@ -63,3 +63,31 @@ Examples:
 
 These are primitive directional forms only.
 They are not stable worlds and not layered forms.
+
+---
+
+## 5. Original readings (attractor consonants)
+
+The following are the deeper intentional readings for the five attractor-consonant CV and VC forms. Derived from the Trace-History material (`misc/Trace-History/original-google-doc.md`). These are not the compact glosses but the full structural interpretations.
+
+**`va`** - vitality entering the relational field. The living force propagating through connection itself, not directed at any individual, distributing through the collective simultaneously. The act of something alive moving through Tide itself.
+
+**`la`** - the thread that runs through Tide. Not the flowing (that is `va`) but the continuity of flow's persistence. The collective consciousness understood as an unbroken thread through all of its history. Every dissolved essence still in this.
+
+**`ra`** - resonance entering relation. The weight and vibration of substantial things arriving at the relational medium. The approach of something that has mass, pressing into the field.
+
+**`ma`** - depth entering relation. The interior pull of the deep arriving at the relational medium. The void's sustained resonance meeting the field of connection. What happens when the between-state opens toward relation.
+
+**`ya`** - collective superposition completing. The relational field - all possible configurations of connection - collapsing into the specific configuration that actually exists. Not "people coming together." The moment before was potential. After `ya` there is only the one configuration that became real. Tidal Affinity completing as an event.
+
+---
+
+**`av`** - relation expressing through vitality. The collective field projecting itself forward through living force. Relation not received but driven outward.
+
+**`al`** - relation expressing through continuum. The persistence of the relational medium through time. The thread by which the collective remains itself across change.
+
+**`ar`** - relation expressing through resonance. The weight of the collective's own vibration departing outward. The relational field making itself felt through its own resonance.
+
+**`am`** - relation expressing through depth. The relational medium opening toward the interior pull. The collective releasing into the deep.
+
+**`ay`** - relation expressing through collapse. The collective undergoing a threshold event. The relational field itself dissolving into a new configuration through the collapse mechanism.

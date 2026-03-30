@@ -12,7 +12,7 @@
 ## 1. Substrate anchor
 
 `o` = stable addressable form  
-Bounded, referenceable, enduring form. :contentReference[oaicite:6]{index=6}
+Bounded, referenceable, enduring form.
 
 ---
 
@@ -63,3 +63,31 @@ Examples:
 
 These are primitive directional forms only.
 They are not stable worlds and not layered forms.
+
+---
+
+## 5. Original readings (attractor consonants)
+
+The following are the deeper intentional readings for the five attractor-consonant CV and VC forms. Derived from the Trace-History material.
+
+**`vo`** - the solidification force. Vitality pressing into stable addressable form, giving it weight, edges, permanence. The act that turns an essence into a specific entity. Not identity itself but the act of vitality pressing into form to make it real and particular.
+
+**`lo`** - the within-iteration continuity of the self. Not persistence across iterations (that is `le`) but the thread-continuity of the same specific bounded identity across the present iteration. The fact that the person you were this morning is continuous with the person you are now. Coherence as a thread rather than as a state.
+
+**`ro`** - resonance entering stable form. The weight of things arriving at the bounded. The approach of substantial force toward the specific and coherent. What gives stable forms their density and their frequency.
+
+**`mo`** - depth entering stable form. The interior pull arriving at the bounded specific thing. The void quality entering the coherent form. The ground of form reaching toward its interior.
+
+**`yo`** - superposition between self-concepts collapsing into identity. The moment a form stops being possibly this form and becomes actually this form. Not gradual. Not consciously chosen. A threshold event: before it the self is becoming, after it the self is. Coherence completing as a collapse rather than as a process.
+
+---
+
+**`ov`** - stable form expressing through vitality. The specific bounded thing projecting its living force outward. Identity driving itself forward. The person in motion.
+
+**`ol`** - stable form expressing through continuum. The bounded specific thing threading forward through time. The island persisting.
+
+**`or`** - stable form expressing through resonance. The earth expressing its own weight outward. The specific form making itself felt through its own frequency. The body resonating.
+
+**`om`** - stable form expressing through depth. The specific bounded thing opening toward the interior pull. The coherent form releasing toward the void's quality.
+
+**`oy`** - stable form expressing through collapse. Identity dissolving outward through the collapse mechanism. The bounded coherent thing releasing into superposition via its own threshold. Form unbecoming through its own resolution event.

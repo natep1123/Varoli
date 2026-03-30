@@ -1,6 +1,6 @@
 # 05 — Resolution-Unit Chaining
 
-*Last Updated: March 27, 2026*
+*Last Updated: March 29, 2026*
 
 **Status:** Working Canon
 **Layer:** Ground 4 / Grammar-Architecture
@@ -201,39 +201,59 @@ Each suffix qualifies the result of everything to its left. The compounding is i
 
 ---
 
-## 11. Open Questions
+## 11. Questions
 
-### 11.1 Deep reception verification
+A question is a resolution unit whose terminal state is suspend: the unit ends in the operator `y`. The unit holds its force-domain relation in superposition. The relation is present but unresolved. In a conversational context, a suspended unit presented to another speaker is a question: the speaker has built the structure and left it in superposition, making explicit that collapse is expected from outside.
 
-Within-form multi-force containment is confirmable through centered-balance closure. Cross-boundary multi-force containment is not confirmable through the same mechanism. Whether a native verification mechanism exists for cross-boundary containment, or whether provenance-blindness functions as a sufficient architectural guarantee, is not yet determined.
+A question is not a separate grammatical category. It is a terminal state. The language already has it. This section names it.
 
-### 11.2 Operator scope across boundaries
+The structural form of a question in Varoli is identical to any other suspended resolution unit. What makes it a question is not any additional marker but the context of address: a suspended unit directed at another perspective, whose perspective marker indicates the other, is a question. The speaker has emitted a force into a domain and left the resolution open. The other resolves it or receives the suspension.
 
-Whether the terminal operator's suspension encompasses incoming projected force depends on operator scope in cross-boundary contexts. This has not been formally derived. Extended suspension is the current lean, but it is the weakest supported interaction in the chaining architecture and must not be overstated.
-
-### 11.3 Perspective marker behavior at boundaries
-
-Whether the opening perspective marker of a receiving unit is transparent to projected force, blocks it, or can simultaneously frame and receive is not determinable from current testing. The deep reception rule is consistent with the framing function of the perspective marker, but does not formally resolve its boundary behavior.
-
-### 11.4 Multi-force closure in a single unit
-
-Whether a single stable centered form can close a unit containing more than one internal force (not counting cross-boundary reception) is untested. This is distinct from the deep reception question: it concerns the containment capacity of the terminal stable form with respect to forces generated within the same unit.
-
-### 11.5 Same-orientation governance
-
-Whether additional structural mechanisms can resolve the inter-force relationship within same-orientation force pairs is untested. The architecture currently leaves same-orientation pairs relationally open. If a mechanism can close them, it has not yet been identified.
-
-### 11.6 Continuation accumulation
-
-Whether continuation accumulates without structural limit or whether some constraint bounds the number of coexisting projected forces in an open chain is untested. The interaction between continuation accumulation and containment capacity is not yet formally addressed.
-
-### 11.7 Suffix order contrast testing
-
-Suffix order is strongly suggested to be meaningful by the qualification architecture and by the invariant-function constraint, but reversed suffix pairs have not yet been independently contrast-tested. This should be treated as a near-term test priority.
+This also means questions can be left unanswered structurally - the suspended unit continues projecting forward until something in the chain resolves it or until the chain ends in suspension. The unresolved question is not a broken expression. It is a structurally valid condition: the superposition holds, unresolved, across units.
 
 ---
 
-## 12. Propagation Targets
+## 12. Open Questions Named
+
+### 12.1 Deep reception verification
+
+Within-form multi-force containment is confirmable through centered-balance closure. Cross-boundary multi-force containment is not confirmable through the same mechanism. Whether a native verification mechanism exists for cross-boundary containment, or whether provenance-blindness functions as a sufficient architectural guarantee, is not yet determined.
+
+### 12.2 Operator scope across boundaries
+
+Whether the terminal operator's suspension encompasses incoming projected force depends on operator scope in cross-boundary contexts. This has not been formally derived. Extended suspension is the current lean, but it is the weakest supported interaction in the chaining architecture and must not be overstated.
+
+### 12.3 Perspective marker behavior at boundaries
+
+Whether the opening perspective marker of a receiving unit is transparent to projected force, blocks it, or can simultaneously frame and receive is not determinable from current testing. The deep reception rule is consistent with the framing function of the perspective marker, but does not formally resolve its boundary behavior.
+
+### 12.4 Multi-force closure in a single unit
+
+Whether a single stable centered form can close a unit containing more than one internal force (not counting cross-boundary reception) is untested. This is distinct from the deep reception question: it concerns the containment capacity of the terminal stable form with respect to forces generated within the same unit.
+
+### 12.5 Same-orientation governance
+
+Whether additional structural mechanisms can resolve the inter-force relationship within same-orientation force pairs is untested. The architecture currently leaves same-orientation pairs relationally open. If a mechanism can close them, it has not yet been identified.
+
+### 12.6 Continuation accumulation
+
+Whether continuation accumulates without structural limit or whether some constraint bounds the number of coexisting projected forces in an open chain is untested. The interaction between continuation accumulation and containment capacity is not yet formally addressed.
+
+### 12.7 Suffix order contrast testing
+
+Suffix order is strongly suggested to be meaningful by the qualification architecture and by the invariant-function constraint, but reversed suffix pairs have not yet been independently contrast-tested. This should be treated as a near-term test priority.
+
+### 12.8 Reference within chains
+
+The reference architecture (`12-g4-reference-architecture.md`) proposes the departure face (VC) as the mechanism for referencing an established stable form. Whether this mechanism operates identically within a chaining sequence as in a standalone context is not established. Specifically: does a stable form established in one unit maintain reference availability for departure faces in subsequent units? Does reference scope have a distance limit across unit boundaries? Does a perspective marker's framing affect which established forms are in reference scope?
+
+### 12.9 Perspective marker change at unit boundaries
+
+Whether the perspective marker can or must change at every unit boundary is not established. The self-crucible decompression chain changes perspective marker at every boundary: `e`, `u`, `a`, `o`. Whether this is a structural requirement of the decompression context, a general chaining principle, or an artifact of the crucible's specific containment order is not determined. Whether two consecutive units can share a perspective marker without this being structurally flat, or whether shared perspective markers mark a particular kind of chaining relation, is untested.
+
+---
+
+## 13. Propagation Targets
 
 **Immediate:**
 - Ensure chaining terminology is consistent with `../../Ground-2/00-g2-varoli-terminology.md`. Any downstream document using "sentence," "clause," "subject," or "object" as primary structural categories should be revised to use resolution-unit language.
@@ -245,11 +265,11 @@ Suffix order is strongly suggested to be meaningful by the qualification archite
 - Revisit the perspective marker boundary question as the perspective marker formulation is tested further (see `03-g4-perspective-markers.md`).
 
 **Test:**
-- Construct a multi-force single-unit closure case and verify whether one stable centered form can close a unit with more than one internally generated force (Section 11.4).
-- Construct reversed suffix pairs and contrast-test whether order produces distinct readings (Section 11.7).
-- Construct an explicit suspension-into-suspension chain to test extended operator scope directly (Section 11.2).
+- Construct a multi-force single-unit closure case and verify whether one stable centered form can close a unit with more than one internally generated force (Section 12.4).
+- Construct reversed suffix pairs and contrast-test whether order produces distinct readings (Section 12.7).
+- Construct an explicit suspension-into-suspension chain to test extended operator scope directly (Section 12.2).
 
 **Investigate:**
-- Whether a native verification mechanism exists for cross-boundary containment (Section 11.1).
-- Whether same-orientation force pairs can be governed more determinately by any current structural mechanism (Section 11.5).
-- Whether continuation has a structural upper bound (Section 11.6).
+- Whether a native verification mechanism exists for cross-boundary containment (Section 12.1).
+- Whether same-orientation force pairs can be governed more determinately by any current structural mechanism (Section 12.5).
+- Whether continuation has a structural upper bound (Section 12.6).
